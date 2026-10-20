@@ -203,3 +203,7 @@ The operator approved committing and pushing all pending website/navigation/anno
 
 ## 2026-10-20 — Announcement rollout verified
 Signed commit f6f8f6932aec5c178303389caf5f09d3c9c9056c was pushed to origin/gh-pages-preview. Pages run39483127180 completed successfully. Fresh HTTPS requests for homepage, announcement, marketing CSS, navigation script, Telegram icon and approved hero all returned200 with bytes identical to the committed runtime. Evidence: .tmp/pages-preview/announcement-rollout-verification.json. No version-counter increment, release tag, DNS/settings change or social-network post was performed.
+
+
+## 2026-10-20 — Published X announcement cross-links
+Added the operator-supplied https://x.com/BlockchainDan/status/2112629478371320097?s=20 below the announcement heading in restrained subheader typography and between the homepage announcement/follow CTAs. Both open new tabs with noopener/noreferrer. Runtime source/root copies and manifest hashes synchronized; existing visuals unchanged. The operator subsequently authorized a signed commit and push to gh-pages-preview. Fresh placement, new-tab behavior and all45 runtime hash/parity checks pass; integration counters remain unchanged per §3.

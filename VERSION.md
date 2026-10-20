@@ -31,3 +31,4 @@ Component tracking was enabled by the operator for this release. `ASSETS` owns c
 | 2026-10-20 | Added social-media asset hierarchy and X banner PNG/JPEG/SVG exports in standard and2× sizes; component IDs remain reserved until integration. |
 | 2026-10-20 | Combined copy/visual save on gh-pages-preview: external new-tab links, corrected article cover and complete review sources. No dev integration or component-counter increment. |
 | 2026-10-20 | Announcement launch preparation on gh-pages-preview: primary OS website links, official social destinations, mobile navigation and six-link article closing list. v1.0.0-beta / ASSETS:01 / GHPAGE:00 retained per §3; no dev integration or release tag. |
+| 2026-10-20 | Added published X article links beneath the announcement title and in the homepage announcement CTAs. Approved gh-pages-preview save; integration counters unchanged per §3. |

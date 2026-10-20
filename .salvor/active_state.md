@@ -23,3 +23,5 @@
 ## Navigation: SalvorKnows.dev primary OS destination; source GitHub secondary; @SalvorKnows product link; Labs Telegram header/footer; compact menu <=1100px; local review at ?cut=ecosystem-04
 
 ## Announcement links: Labs website/X/Telegram and OS website/GitHub/X; website label corrected; new-tab protections retained; live verification passed
+
+## X article: published BlockchainDan announcement linked below article title and between homepage announcement/follow links; operator-approved signed commit/push on gh-pages-preview

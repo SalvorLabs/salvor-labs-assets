@@ -27,3 +27,5 @@ The announcement closes with six official links: Labs website, Labs X, Labs Tele
 Current publication status (2026-10-20): GitHub Pages is active at https://salvorlabs.org/ from gh-pages-preview root, with HTTPS enforced. The operator approved the navigation and announcement push for live rollout; earlier unpublished statements above are historical. Version counters remain unchanged until dev integration, per RULES.md §3.
 
 Rollout verified: signed f6f8f69 deployed successfully in Pages run39483127180; live homepage, announcement and key assets match committed bytes.
+
+The published X article link appears below the announcement title and between the homepage announcement/follow links. Both use the operator-supplied BlockchainDan status URL and open in new tabs.

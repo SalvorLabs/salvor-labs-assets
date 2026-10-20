@@ -20,6 +20,7 @@
 .article-shell h1 { font-size: clamp(38px, 5vw, 64px); margin: 18px 0 28px; }
 .article-shell h2 { font-size: 30px; margin: 48px 0 18px; }
 .article-shell p { color: var(--muted); }
+.article-shell .article-announcement-link { margin: -8px 0 28px; font-size: clamp(18px, 2.5vw, 21px); line-height: 1.5; font-weight: 500; }
 .article-shell .article-lead { font-size: 23px; line-height: 1.5; color: var(--ink); }
 .article-shell .utility-list { margin-top: 30px; }
 .article-shell .product-title { display: flex; gap: 14px; align-items: center; margin-top: 48px; }

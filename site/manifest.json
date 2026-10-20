@@ -5,18 +5,18 @@
   "files": [
     {
       "path": "announcement.html",
-      "bytes": 14306,
-      "sha256": "5048facbded89917e64651e885af3ce355566a0c3017522f5157ee1f0f803eb5"
+      "bytes": 14519,
+      "sha256": "f1b46b8e9f21334345ee7ab5a1054842f1e05791954051615925c05e39ba7c13"
     },
     {
       "path": "index.html",
-      "bytes": 16532,
-      "sha256": "d11ed466bd746122642f6640641957c575d5391b47681f92ec5b6746f6c37b61"
+      "bytes": 16706,
+      "sha256": "169ed8ad55d1ffdcc372df7e60a9f0f89d601c03c85ced3071ad53f72db4cb0e"
     },
     {
       "path": "marketing.css",
-      "bytes": 5169,
-      "sha256": "95af7467cb734a4cab4e8759536e56f40350773ab55a52b1ce0ad63aa03d5c14"
+      "bytes": 5309,
+      "sha256": "a269d10a23c78fadb98c75d23531464284ad18b2273804134b7182c71951d859"
     },
     {
       "path": "media/artwork/salvorlabs-sphere-l09-contained-transparent-4096.png",
