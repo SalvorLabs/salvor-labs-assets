@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-20",
+  "use": "Salvor+; user-supplied mark, copied without alteration",
+  "files": [
+    {
+      "file": "salvor-logo-sm-white.svg",
+      "source": "/Users/dwasyluk/Development/SALVORLABS/salvor/assets/brand/generated/salvor-logo-sm-white.svg",
+      "sha256": "8e8a56d8c206db1dc1ef73cb9e1a389796406d0baefaf8770c93338584333a07"
+    },
+    {
+      "file": "salvor-logo-sm-white-512.png",
+      "source": "/Users/dwasyluk/Development/SALVORLABS/salvor/assets/brand/generated/icons/salvor-logo-sm-white-512.png",
+      "sha256": "0d223cb9eeba727c8473b803060a4d5408cbc82cfbd25db1586076b956f2aa29"
+    },
+    {
+      "file": "salvor-logo-sm-black-512.png",
+      "source": "/Users/dwasyluk/Development/SALVORLABS/salvor/assets/brand/generated/icons/salvor-logo-sm-black-512.png",
+      "sha256": "6590d5e94db6a696b875f8db798ef9a6efa97cfdfbaff733d52e79cd79f1bfac"
+    }
+  ]
+}
