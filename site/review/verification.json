@@ -1,0 +1,54 @@
+{
+  "responsiveChecks": [
+    {
+      "allImagesLoaded": true,
+      "heroHeight": 1024,
+      "markSource": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "markWidth": 64,
+      "scrollWidth": 768,
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "allImagesLoaded": true,
+      "heroHeight": 844,
+      "markSource": "http://127.0.0.1:64613/media/brand/outline-32.png",
+      "markWidth": 32,
+      "scrollWidth": 390,
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "allImagesLoaded": true,
+      "heroHeight": 760,
+      "markSource": "http://127.0.0.1:64613/media/brand/outline-32.png",
+      "markWidth": 32,
+      "scrollWidth": 320,
+      "viewport": [
+        320,
+        568
+      ]
+    }
+  ],
+  "desktop": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "overflow": false
+  },
+  "brandIdentity": "Byte-preserved",
+  "keyboardFocus": "Visible 2px outline",
+  "externalFontDownloads": 0,
+  "frameworkDependencies": 0,
+  "navigation": {
+    "missionAnchor": "pass",
+    "brokenInternalLinks": 0,
+    "h1Count": 1
+  },
+  "browserErrors": 0
+}

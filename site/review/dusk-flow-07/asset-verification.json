@@ -1,0 +1,43 @@
+{
+  "pass": true,
+  "hero": {
+    "path": "media/horizon-dusk-flow-05.webp",
+    "sha256": "f474582025ea6c28e4009adc1c8a49cec43f4c4e90d2a65ea668089f0aeaa84b"
+  },
+  "lockedPixels": 1474607,
+  "lockedPixelMismatches": 0,
+  "bodyUnchangedOutsideHeroTag": true,
+  "social": {
+    "svg": "source/social/salvorlabs-social-308cec49cbca50bb.svg",
+    "png": "media/social/salvorlabs-social-308cec49cbca50bb.png",
+    "jpg": "media/social/salvorlabs-social-308cec49cbca50bb.jpg",
+    "provenance": "source/social/salvorlabs-social-308cec49cbca50bb.json"
+  },
+  "width": 1200,
+  "height": 630,
+  "transparentPng": {
+    "path": "assets/hero/l09/salvorlabs-sphere-l09-transparent-3072.png",
+    "width": 3072,
+    "height": 2048,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "clearPixels": 3222130,
+    "fractionalAlphaPixels": 1691584,
+    "opaquePixels": 1377742,
+    "bytes": 7522507,
+    "nativeGeneration": [
+      1536,
+      1024
+    ],
+    "export": "Padded Lanczos scaling"
+  },
+  "metadataMatches": true,
+  "localCardAndDownloadRequestsPassed": true,
+  "oldHeroAndCardsPreserved": true,
+  "canonicalIndexAndHeadPreserved": true,
+  "salvorClean": true,
+  "published": false,
+  "browserErrors": []
+}

@@ -5,13 +5,13 @@
   "files": [
     {
       "path": "announcement.html",
-      "bytes": 11048,
-      "sha256": "acb75e7e8b6b6a4e4bd386d5dbd10bb48aa94317753bfe67e6220c60f7efe17c"
+      "bytes": 11384,
+      "sha256": "2cb6631372462cbd41d2912ee6d18da51d4e94808ca11d9f633e7699e1070319"
     },
     {
       "path": "index.html",
-      "bytes": 12927,
-      "sha256": "33177013eaeee7e4fa053e5c60e301d6f94f4d9585bdf3b9ae11484b58ee81ab"
+      "bytes": 13305,
+      "sha256": "4c9922cd4d01eea747aec6f131c37fd071e5bc778b749e17c54fce9c4afab530"
     },
     {
       "path": "marketing.css",

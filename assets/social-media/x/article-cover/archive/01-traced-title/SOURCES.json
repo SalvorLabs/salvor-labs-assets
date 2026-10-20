@@ -1,0 +1,63 @@
+{
+  "created": "2026-10-20",
+  "status": "Draft for operator review",
+  "method": "ImageGen background plate; deterministic placement of exact approved sphere and outlined Focus wordmark",
+  "platform": {
+    "name": "X article cover",
+    "aspectRatio": "5:2",
+    "note": "Chosen landscape export; not asserted as an official mandatory size"
+  },
+  "inputs": [
+    {
+      "path": "site/media/artwork/salvorlabs-sphere-l09-contained-transparent-4096.png",
+      "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+    },
+    {
+      "path": "site/media/brand/focus.svg",
+      "sha256": "8ace942b006f9b8e79338308be3f4a703487760fb2962cbd0a87382b4aa9b22d"
+    },
+    {
+      "path": "assets/social-media/x/article-cover/source/background-generated.png",
+      "sha256": "4a7b22b877ee96e2e617379773266057e315101011ba5973d78b98bd7bd0a599"
+    }
+  ],
+  "layout": {
+    "width": 2500,
+    "height": 1000,
+    "artwork": {
+      "x": 735,
+      "y": 25,
+      "width": 1030,
+      "height": 667
+    },
+    "wordmark": {
+      "x": 820,
+      "y": 760,
+      "width": 860,
+      "height": 148
+    }
+  },
+  "outputs": [
+    {
+      "path": "salvorlabs-article-cover-1500x600.jpg",
+      "bytes": 349613,
+      "sha256": "991051a8cb22e8677f7945e9e2102896f2334f38fd07b06af3968ac05bd2e37c"
+    },
+    {
+      "path": "salvorlabs-article-cover-2500x1000.jpg",
+      "bytes": 808859,
+      "sha256": "2f5254a9b56ad07af3597fd7324dbaba9417caadd567a6f5245799fcbb8827b9"
+    },
+    {
+      "path": "salvorlabs-article-cover-2500x1000.png",
+      "bytes": 4581885,
+      "sha256": "844e19afa1c8e900370ba057ea0bfeb48fb68506e9186bafe87a8168a71e7391"
+    },
+    {
+      "path": "salvorlabs-article-cover-2500x1000.svg",
+      "bytes": 6333668,
+      "sha256": "6ec7ef5ae7d7cc1f3ea32f3ff2fe7a6850d08f1e238abf1c453f1d958f95c164"
+    }
+  ],
+  "canonicalAssetsChanged": false
+}

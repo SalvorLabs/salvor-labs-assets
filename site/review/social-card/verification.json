@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-10-17T04:01:57.899550+00:00",
+  "site": "https://salvorlabs.org/",
+  "card": "https://salvorlabs.org/media/social/salvorlabs-social-v2.jpg",
+  "card_bytes": 172673,
+  "card_sha256": "37fe76f304b632fae07b3b509205a6bbae49985f9c75d0df8bf5b41a74ec9229",
+  "crawler_checks": [
+    {
+      "crawler_user_agent": "Twitterbot/1.0",
+      "page_http": 200,
+      "sharing_metadata": "pass"
+    },
+    {
+      "crawler_user_agent": "facebookexternalhit/1.1",
+      "page_http": 200,
+      "sharing_metadata": "pass"
+    }
+  ],
+  "robots_access": "pass",
+  "http_redirects_to_https": true,
+  "workflow": "https://github.com/SalvorLabs/salvor-labs-assets/actions/runs/39000961099",
+  "commit": "604a923c508e6c4d3efbb93dd69423023847eab3"
+}

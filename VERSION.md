@@ -27,4 +27,6 @@ Component tracking was enabled by the operator for this release. `ASSETS` owns c
 | 2026-10-19 | Prepared single G08 graph at every size; retired alternate masters/rules, updated graph favicon and copied regular Salvor product marks; component IDs remain reserved until dev integration. |
 | 2026-10-19 | Locked L09 hero, refreshed sharing cards and saved reusable transparent PNG; local only, component integration IDs remain reserved. |
 | 2026-10-20 | Promoted approved contained-glow04 artwork to canonical; composed the hero from the exact PNG and refreshed social cards. Component increments remain deferred to dev integration. |
+| 2026-10-20 | Local main copy refresh: Salvor OS/Plus homepage, launch article and announcement drafts; supplied Plus marks; operator-authorized brain audit. No integration or component-counter increment. |
 | 2026-10-20 | Added social-media asset hierarchy and X banner PNG/JPEG/SVG exports in standard and2× sizes; component IDs remain reserved until integration. |
+| 2026-10-20 | Combined copy/visual save on gh-pages-preview: external new-tab links, corrected article cover and complete review sources. No dev integration or component-counter increment. |

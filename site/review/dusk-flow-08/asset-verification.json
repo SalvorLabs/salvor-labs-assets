@@ -1,0 +1,24 @@
+{
+  "status": "Canonical artwork, hero and sharing asset checks passed",
+  "canonicalSha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4",
+  "canonicalSize": [
+    4096,
+    2654
+  ],
+  "clearBorderPixels": 5,
+  "nonzeroAlphaPixelsInBorder": 0,
+  "hero": {
+    "path": "media/horizon-dusk-flow-06.webp",
+    "sha256": "95331180b68b9d987e25ad478b3f20e5bbc385c7d3e46701c12557da75de076d"
+  },
+  "social": {
+    "svg": "source/social/salvorlabs-social-7ba07a8dc215fb59.svg",
+    "png": "media/social/salvorlabs-social-7ba07a8dc215fb59.png",
+    "jpg": "media/social/salvorlabs-social-7ba07a8dc215fb59.jpg",
+    "provenance": "source/social/salvorlabs-social-7ba07a8dc215fb59.json"
+  },
+  "htmlBodyAndCssUnchangedExceptHero": true,
+  "previousRuntimeAssetsPreserved": true,
+  "gitIndexUnchanged": true,
+  "salvorUnchanged": true
+}

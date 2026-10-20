@@ -1,0 +1,162 @@
+{
+  "status": "Approved local hero and sharing assets; publication pending",
+  "heroLock": "source/hero-lock.json",
+  "scope": "Runtime files only; original sources and reviews remain preserved separately.",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 8878,
+      "sha256": "2d7d509a170e546d3cc8d02cfd6af1fe1ff44dd33ec7bec165ea57c826d9be61"
+    },
+    {
+      "path": "media/artwork/salvorlabs-sphere-l09-transparent-3072.png",
+      "bytes": 7522507,
+      "sha256": "f0078cd91a6468810efe66010be706d27a7d4ef15dc839cf7f46493b02b13e4c"
+    },
+    {
+      "path": "media/brand/SOURCES.json",
+      "bytes": 1557,
+      "sha256": "efc7dbfa8e76d425ce899187917f379d8bf5f6527e7c09b65adfa66f6c870db5"
+    },
+    {
+      "path": "media/brand/favicon-16.png",
+      "bytes": 631,
+      "sha256": "f2296434950773839a7aa6e8f0bec31f20b3457f4fe7d7bc41ff98a071e1314d"
+    },
+    {
+      "path": "media/brand/favicon-32.png",
+      "bytes": 1628,
+      "sha256": "0c3a45a67e6b27c122755d3b9cf8690e70aad0bc7af608881396f9be66d68405"
+    },
+    {
+      "path": "media/brand/focus.svg",
+      "bytes": 5529,
+      "sha256": "8ace942b006f9b8e79338308be3f4a703487760fb2962cbd0a87382b4aa9b22d"
+    },
+    {
+      "path": "media/brand/regular-128.png",
+      "bytes": 12523,
+      "sha256": "f4f0e8458eb3225a2d73c4cc701e1217cc0fd01f9612fe6b139a4ced23f8c30d"
+    },
+    {
+      "path": "media/brand/regular-256.png",
+      "bytes": 42731,
+      "sha256": "39b5bf27efc8fbf11461810b3b4ca6c2b85de434ae608c26960f4392a1d2230f"
+    },
+    {
+      "path": "media/brand/salvor-logo-black-128.png",
+      "bytes": 13058,
+      "sha256": "84a27e081135f2b967a69b5c88e500a3d6d72107241bd715c34e521efac467c6"
+    },
+    {
+      "path": "media/brand/salvor-logo-white-128.png",
+      "bytes": 9078,
+      "sha256": "2c646cd985fdef3d084bb525945c3e24591e62e92c64004300ce795c17290e70"
+    },
+    {
+      "path": "media/horizon-dusk-flow-01.webp",
+      "bytes": 182914,
+      "sha256": "7771592ac491f95188b630c1be765e2cc2454c568bbb06c565a8327d1ba7bcf9"
+    },
+    {
+      "path": "media/horizon-dusk-flow-02.webp",
+      "bytes": 294574,
+      "sha256": "e0f8eedcbfc93ed24e8bd7a530489b9f447d5db5bd47fa7e2e585641b48f6cd7"
+    },
+    {
+      "path": "media/horizon-dusk-flow-03.webp",
+      "bytes": 293350,
+      "sha256": "c33e3c5ce26e8911dda3c0aa2b879e79b54b6ff136f4441b408ee851824aac5f"
+    },
+    {
+      "path": "media/horizon-dusk-flow-04.webp",
+      "bytes": 1525254,
+      "sha256": "d20116e6db90d2f285630c5e42d2a08fb864e28d47d7d3bff74384d25a5ae79f"
+    },
+    {
+      "path": "media/horizon-dusk-flow-05.webp",
+      "bytes": 1525440,
+      "sha256": "f474582025ea6c28e4009adc1c8a49cec43f4c4e90d2a65ea668089f0aeaa84b"
+    },
+    {
+      "path": "media/horizon-hero.webp",
+      "bytes": 162186,
+      "sha256": "4e4c8861b2e57429d2dac00c2a41123f03968418b770894a489f2873112c0d5b"
+    },
+    {
+      "path": "media/icons/ATTRIBUTION.md",
+      "bytes": 482,
+      "sha256": "f8e8168ffcbde1ca9a2563c24c34e78fe57b7c4b05c71b38b319f395780c1cd8"
+    },
+    {
+      "path": "media/icons/LICENSE-GitHub.txt",
+      "bytes": 1068,
+      "sha256": "da259c8bd0de62713ccdcf88910aebca810644f98c2c912bad814fc79ea778df"
+    },
+    {
+      "path": "media/icons/github.svg",
+      "bytes": 800,
+      "sha256": "1ce1ad44b6a4341be1363a338b653580e585140d0c3ded79a2f47e1ab4909b78"
+    },
+    {
+      "path": "media/icons/x.svg",
+      "bytes": 273,
+      "sha256": "17390ecd514c9d1300f2056b1c594fd0fafcad89815343dd5581d442565e9709"
+    },
+    {
+      "path": "media/social/README.md",
+      "bytes": 1067,
+      "sha256": "695bc1719af318707c0a00608c372557dd80bc335e72a2092698db63f70b6744"
+    },
+    {
+      "path": "media/social/salvorlabs-social-308cec49cbca50bb.jpg",
+      "bytes": 190136,
+      "sha256": "b1632bc2cf109f303565f8492ac98cc39fd43027fa24aea153e5255c23e2d618"
+    },
+    {
+      "path": "media/social/salvorlabs-social-308cec49cbca50bb.png",
+      "bytes": 1267803,
+      "sha256": "a2ee43b827ed67a74358145674cd7e517d6dde31aa54d60d0f3ac6e99769d2d0"
+    },
+    {
+      "path": "media/social/salvorlabs-social-44cbef123fff2afb.jpg",
+      "bytes": 186929,
+      "sha256": "d4efd52279ad702b56863029c4ef4f8a554046f26ad26f222daf45f394025a9d"
+    },
+    {
+      "path": "media/social/salvorlabs-social-44cbef123fff2afb.png",
+      "bytes": 1254477,
+      "sha256": "30d4a91e5bfb0b53da08b1c74f78e8065cf7434f43733851781cf2ae51365416"
+    },
+    {
+      "path": "media/social/salvorlabs-social-7f18b4719d6f4a59.jpg",
+      "bytes": 186929,
+      "sha256": "d4efd52279ad702b56863029c4ef4f8a554046f26ad26f222daf45f394025a9d"
+    },
+    {
+      "path": "media/social/salvorlabs-social-7f18b4719d6f4a59.png",
+      "bytes": 1254477,
+      "sha256": "30d4a91e5bfb0b53da08b1c74f78e8065cf7434f43733851781cf2ae51365416"
+    },
+    {
+      "path": "media/social/salvorlabs-social-v2.jpg",
+      "bytes": 172673,
+      "sha256": "37fe76f304b632fae07b3b509205a6bbae49985f9c75d0df8bf5b41a74ec9229"
+    },
+    {
+      "path": "media/social/salvorlabs-social-v2.png",
+      "bytes": 896580,
+      "sha256": "cf71f0e3acdac117e2c7ad39dbd9003d2504066dc147d95b9af9648ad34e7430"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 23,
+      "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 7440,
+      "sha256": "36a28978a92f5d7f9f3fc1e7cf44893763823b288a4897eeb95da9f89d9bc37e"
+    }
+  ]
+}

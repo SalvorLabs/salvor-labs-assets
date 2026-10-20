@@ -17,3 +17,5 @@ The repair approval gate is cleared. The operator approved committing and pushin
 Header/footer on both runtime pages include “Buy $SALVOR”; the homepage utility list ends with “Buy $SALVOR on Bags.fm.” Bags.fm is the sole buy destination, using the operator-supplied URL and official monochrome icon (source in `media/icons/ATTRIBUTION.md`). Compact headers keep the buy link visible, with navigation on a separate mobile row.
 
 The body Bags.fm CTA is a high-contrast semibold button scoped to `.utility-cta`; header/footer buy links remain understated text links.
+
+All external HTTP(S) anchors on both runtime pages use `target="_blank"` with `rel="noopener noreferrer"`. Internal section and announcement navigation stay in the current tab. Root preview files mirror the source pages.

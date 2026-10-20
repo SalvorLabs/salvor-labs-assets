@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-20",
+  "revision": 2,
+  "dimensions": [
+    2500,
+    1000
+  ],
+  "upper740RowsPixelIdentical": true,
+  "title": "SALVOR LABS",
+  "typeface": "Futura Medium",
+  "rendering": "Native CoreText font contours exported to SVG paths, no bitmap tracing",
+  "review": "Full composition inspected at 1500x600; crisp edges and centered baseline"
+}

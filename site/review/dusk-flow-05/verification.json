@@ -1,0 +1,421 @@
+{
+  "url": "http://127.0.0.1:64613/?cut=dusk-flow-05",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "h1Count": 1,
+      "logo": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "logoBox": {
+        "x": 72,
+        "y": 26,
+        "width": 64,
+        "height": 64,
+        "bottom": 90
+      },
+      "heroBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "bottom": 900
+      },
+      "sceneBox": {
+        "x": 0,
+        "y": 360,
+        "width": 1440,
+        "height": 540,
+        "bottom": 900
+      },
+      "copyBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 832,
+        "bottom": 832
+      },
+      "subtitleBox": {
+        "x": 499.59375,
+        "y": 302.71875,
+        "width": 440.796875,
+        "height": 30,
+        "bottom": 332.71875
+      },
+      "ctaBox": {
+        "x": 671.8125,
+        "y": 832,
+        "width": 96.375,
+        "height": 36,
+        "bottom": 868
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/focus.svg",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/horizon-dusk-flow-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "label": "tablet",
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "h1Count": 1,
+      "logo": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "logoBox": {
+        "x": 38.390625,
+        "y": 22,
+        "width": 64,
+        "height": 64,
+        "bottom": 86
+      },
+      "heroBox": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1024,
+        "bottom": 1024
+      },
+      "sceneBox": {
+        "x": 0,
+        "y": 409.59375,
+        "width": 768,
+        "height": 614.40625,
+        "bottom": 1024
+      },
+      "copyBox": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 956,
+        "bottom": 956
+      },
+      "subtitleBox": {
+        "x": 207.6875,
+        "y": 247.828125,
+        "width": 352.625,
+        "height": 24,
+        "bottom": 271.828125
+      },
+      "ctaBox": {
+        "x": 335.8125,
+        "y": 956,
+        "width": 96.375,
+        "height": 36,
+        "bottom": 992
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/focus.svg",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/horizon-dusk-flow-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "label": "phone",
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "h1Count": 1,
+      "logo": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "logoBox": {
+        "x": 24,
+        "y": 22,
+        "width": 48,
+        "height": 48,
+        "bottom": 70
+      },
+      "heroBox": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "bottom": 844
+      },
+      "sceneBox": {
+        "x": 0,
+        "y": 337.59375,
+        "width": 390,
+        "height": 506.40625,
+        "bottom": 844
+      },
+      "copyBox": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 782,
+        "bottom": 782
+      },
+      "subtitleBox": {
+        "x": 65.078125,
+        "y": 220.59375,
+        "width": 259.828125,
+        "height": 48,
+        "bottom": 268.59375
+      },
+      "ctaBox": {
+        "x": 146.8125,
+        "y": 782,
+        "width": 96.375,
+        "height": 36,
+        "bottom": 818
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/focus.svg",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/horizon-dusk-flow-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "label": "small-phone",
+      "width": 320,
+      "height": 760,
+      "overflow": false,
+      "h1Count": 1,
+      "logo": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "logoBox": {
+        "x": 20,
+        "y": 22,
+        "width": 44,
+        "height": 44,
+        "bottom": 66
+      },
+      "heroBox": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 760,
+        "bottom": 760
+      },
+      "sceneBox": {
+        "x": 0,
+        "y": 304,
+        "width": 320,
+        "height": 456,
+        "bottom": 760
+      },
+      "copyBox": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 698,
+        "bottom": 698
+      },
+      "subtitleBox": {
+        "x": 30.078125,
+        "y": 213.65625,
+        "width": 259.828125,
+        "height": 48,
+        "bottom": 261.65625
+      },
+      "ctaBox": {
+        "x": 111.8125,
+        "y": 698,
+        "width": 96.375,
+        "height": 36,
+        "bottom": 734
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/focus.svg",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/horizon-dusk-flow-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "label": "compact-tablet",
+      "width": 768,
+      "height": 700,
+      "overflow": false,
+      "h1Count": 1,
+      "logo": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "logoBox": {
+        "x": 38.390625,
+        "y": 22,
+        "width": 64,
+        "height": 64,
+        "bottom": 86
+      },
+      "heroBox": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 700,
+        "bottom": 700
+      },
+      "sceneBox": {
+        "x": 0,
+        "y": 280,
+        "width": 768,
+        "height": 420,
+        "bottom": 700
+      },
+      "copyBox": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 640,
+        "bottom": 640
+      },
+      "subtitleBox": {
+        "x": 207.6875,
+        "y": 197.75,
+        "width": 352.625,
+        "height": 24,
+        "bottom": 221.75
+      },
+      "ctaBox": {
+        "x": 335.8125,
+        "y": 640,
+        "width": 96.375,
+        "height": 36,
+        "bottom": 676
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/focus.svg",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/horizon-dusk-flow-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "label": "short-desktop",
+      "width": 1440,
+      "height": 600,
+      "overflow": false,
+      "h1Count": 1,
+      "logo": "http://127.0.0.1:64613/media/brand/regular-128.png",
+      "logoBox": {
+        "x": 72,
+        "y": 26,
+        "width": 64,
+        "height": 64,
+        "bottom": 90
+      },
+      "heroBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 600,
+        "bottom": 600
+      },
+      "sceneBox": {
+        "x": 0,
+        "y": 240,
+        "width": 1440,
+        "height": 360,
+        "bottom": 600
+      },
+      "copyBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 540,
+        "bottom": 540
+      },
+      "subtitleBox": {
+        "x": 543.6875,
+        "y": 202.71875,
+        "width": 352.625,
+        "height": 24,
+        "bottom": 226.71875
+      },
+      "ctaBox": {
+        "x": 671.8125,
+        "y": 540,
+        "width": 96.375,
+        "height": 36,
+        "bottom": 576
+      },
+      "images": [
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/focus.svg",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/horizon-dusk-flow-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:64613/media/brand/regular-128.png",
+          "loaded": true
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "errors": [],
+  "baselinePreserved": true
+}

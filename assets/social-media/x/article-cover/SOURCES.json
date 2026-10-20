@@ -1,0 +1,63 @@
+{
+  "created": "2026-10-20",
+  "status": "Operator-approved repository save, 2026-10-20",
+  "method": "ImageGen background plate; deterministic placement of exact approved sphere and native Futura Medium font outlines (no raster tracing)",
+  "platform": {
+    "name": "X article cover",
+    "aspectRatio": "5:2",
+    "note": "Chosen landscape export; not asserted as an official mandatory size"
+  },
+  "inputs": [
+    {
+      "path": "site/media/artwork/salvorlabs-sphere-l09-contained-transparent-4096.png",
+      "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+    },
+    {
+      "path": "assets/social-media/x/article-cover/source/title-futura-02.svg",
+      "sha256": "e9e8a8e014a825cdde8616abb3ba0df73c851c8afc004274138d92b26625cc02"
+    },
+    {
+      "path": "assets/social-media/x/article-cover/source/background-generated.png",
+      "sha256": "4a7b22b877ee96e2e617379773266057e315101011ba5973d78b98bd7bd0a599"
+    }
+  ],
+  "layout": {
+    "width": 2500,
+    "height": 1000,
+    "artwork": {
+      "x": 735,
+      "y": 25,
+      "width": 1030,
+      "height": 667
+    },
+    "wordmark": {
+      "x": 750,
+      "y": 780,
+      "width": 1000,
+      "height": 114
+    }
+  },
+  "outputs": [
+    {
+      "path": "salvorlabs-article-cover-1500x600.jpg",
+      "bytes": 350080,
+      "sha256": "864ddd68a48948734fd2d1b685fcb1ea09a67e105974b552fc24ab39abfe6a72"
+    },
+    {
+      "path": "salvorlabs-article-cover-2500x1000.jpg",
+      "bytes": 809603,
+      "sha256": "8df1f827fbba2c3a71a4aa4b751d246d76ede8c0b3049a2a07ba7ac148f03872"
+    },
+    {
+      "path": "salvorlabs-article-cover-2500x1000.png",
+      "bytes": 4574247,
+      "sha256": "1ec4b0b0dffb52d8fff8940c258f5659dff80ac21e324b2919723e886a0738e3"
+    },
+    {
+      "path": "salvorlabs-article-cover-2500x1000.svg",
+      "bytes": 6332424,
+      "sha256": "92ae276b394b336c5a2dbabdf0e23cddc09c4c8b5e58f930fc310caa4ad73ff3"
+    }
+  ],
+  "canonicalAssetsChanged": false
+}

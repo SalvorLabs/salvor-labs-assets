@@ -1,0 +1,1 @@
+Technical rendering trial only; not published. The SVG renderer did not decode the embedded WebP backdrop. Version 2 embeds a lossless PNG representation of the same hero and is the production card. All trial files are retained.

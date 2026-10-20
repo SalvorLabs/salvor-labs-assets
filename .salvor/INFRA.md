@@ -65,5 +65,14 @@ The approved lossless hero remains media/horizon-dusk-flow-04.webp. The matching
 ## 2026-10-19 — L09 local lock and reusable artwork
 Current local page: http://127.0.0.1:64613/?cut=dusk-flow-07; hero/card/transparency review: /review/dusk-flow-07/. source/hero-lock.json identifies the new L09 hero and refreshed sharing URLs; the explicit lock exporter derives alt text from the current hero. The independent RGBA asset is owned by assets/hero/l09 and copied byte-for-byte into site/media/artwork. Canonical index/HEAD and product checkout remain preserved; no external publication/settings changed.
 
+
+## 2026-10-20 — Local main and marketing preview
+The operator requested the copy refresh in this assets checkout on main. Local main was created at baseline1e0a3ea, retaining the staged index and all worktree content. The earlier branch/integration descriptions above are historical; no dev integration, release, push or external change occurred. The current local page is http://127.0.0.1:64613/?cut=ecosystem-01, with a local announcement.html preview. Copy/source routing and the tentative later mechanics update are owned by site/copy/README.md. Existing visual assets and their generators remain under the parallel artwork workflow.
+
+
 ## 2026-10-20 — Visual source save on gh-pages-preview
 The operator authorized a signed visual-only commit/push on the gh-pages-preview branch in the assets repository. An alternate temporary Git index selects visual files and filtered operational brain snapshots; page/copy work remains separate in the shared worktree. This save does not deploy Pages, alter DNS/profile settings, integrate dev, create a release or modify the Salvor product checkout. Earlier branch descriptions above remain dated history.
+
+
+## 2026-10-20 — Combined website and cover save
+The operator corrected the working branch to gh-pages-preview, then authorized the combined copy/visual save after canonical artwork commit921163f. Root runtime pages mirror site/; later external-link behavior and the corrected article cover are included. main was deleted after its approved page commit was merged. Pages/DNS configuration remains unchanged.
