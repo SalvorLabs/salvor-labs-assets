@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-19",
+  "sourceRoot": "../../../assets",
+  "preservation": "Exact copies; one G08 graph at all sizes; regular Salvor product marks retain original black/white artwork",
+  "assets": [
+    {
+      "file": "regular-128.png",
+      "source": "logo/white_on_trans_bg/salvor-labs-logo-128.png",
+      "sha256": "f4f0e8458eb3225a2d73c4cc701e1217cc0fd01f9612fe6b139a4ced23f8c30d"
+    },
+    {
+      "file": "regular-256.png",
+      "source": "logo/white_on_trans_bg/salvor-labs-logo-256.png",
+      "sha256": "39b5bf27efc8fbf11461810b3b4ca6c2b85de434ae608c26960f4392a1d2230f"
+    },
+    {
+      "file": "favicon-16.png",
+      "source": "logo/white_on_black_bg/salvor-labs-logo-16.png",
+      "sha256": "f2296434950773839a7aa6e8f0bec31f20b3457f4fe7d7bc41ff98a071e1314d"
+    },
+    {
+      "file": "favicon-32.png",
+      "source": "logo/white_on_black_bg/salvor-labs-logo-32.png",
+      "sha256": "0c3a45a67e6b27c122755d3b9cf8690e70aad0bc7af608881396f9be66d68405"
+    },
+    {
+      "file": "focus.svg",
+      "source": "masters/wordmark/focus.svg",
+      "sha256": "8ace942b006f9b8e79338308be3f4a703487760fb2962cbd0a87382b4aa9b22d"
+    },
+    {
+      "file": "salvor-logo-black-128.png",
+      "source": "products/salvor/salvor-logo-black-128.png",
+      "sha256": "84a27e081135f2b967a69b5c88e500a3d6d72107241bd715c34e521efac467c6"
+    },
+    {
+      "file": "salvor-logo-white-128.png",
+      "source": "products/salvor/salvor-logo-white-128.png",
+      "sha256": "2c646cd985fdef3d084bb525945c3e24591e62e92c64004300ce795c17290e70"
+    }
+  ]
+}

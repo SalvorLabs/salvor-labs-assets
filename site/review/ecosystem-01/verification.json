@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "branch": "main",
+  "pages": {
+    "index.html": {
+      "references": 26,
+      "duplicateIds": false,
+      "internalMechanics": false
+    },
+    "announcement.html": {
+      "references": 22,
+      "duplicateIds": false,
+      "internalMechanics": false
+    }
+  },
+  "identicalPillarCopy": true,
+  "protectedFilesUnchanged": 310,
+  "plusSourceCopies": "byte-identical",
+  "runtimeManifest": "verified",
+  "errors": []
+}

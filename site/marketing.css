@@ -1,0 +1,69 @@
+/* Copy expansion only. Existing hero, artwork, and base styles remain owned by styles.css. */
+.product-status { max-width: 15ch; line-height: 1.5; }
+.project-title { min-width: 0; }
+.project-plus { border-top: 1px solid var(--rule); padding-top: 36px; padding-bottom: 0; }
+.project-plus strong, .ecosystem-intro strong { color: var(--ink); font-weight: 600; }
+.ecosystem, .announcement { display: grid; grid-template-columns: 1fr 1.2fr; gap: 80px; border-top: 1px solid var(--rule); padding-top: 66px; padding-bottom: 90px; }
+.ecosystem-intro > p { color: var(--muted); max-width: 35ch; margin: 24px 0 0; }
+.ecosystem-intro .roadmap-note { font-size: 14px; }
+.utility-list { list-style: none; padding: 0; margin: 0; }
+.utility-list li { padding: 24px 0; border-top: 1px solid var(--rule); }
+.utility-list li:first-child { padding-top: 0; border-top: 0; }
+.utility-list li:last-child { padding-bottom: 0; }
+.utility-list h3 { font-size: 21px; font-weight: 500; letter-spacing: -.015em; margin: 0 0 10px; }
+.utility-list p { color: var(--muted); margin: 0; max-width: 55ch; }
+.announcement-copy > p { color: var(--muted); margin: 0 0 24px; }
+.announcement-copy .text-link { margin: 0 24px 16px 0; }
+.inline-link { text-decoration: underline; text-underline-offset: 4px; }
+.article-page .masthead { position: relative; }
+.article-shell { max-width: 820px; margin: 48px auto 100px; padding-inline: 40px; }
+.article-shell h1 { font-size: clamp(38px, 5vw, 64px); margin: 18px 0 28px; }
+.article-shell h2 { font-size: 30px; margin: 48px 0 18px; }
+.article-shell p { color: var(--muted); }
+.article-shell .article-lead { font-size: 23px; line-height: 1.5; color: var(--ink); }
+.article-shell .utility-list { margin-top: 30px; }
+.article-shell .product-title { display: flex; gap: 14px; align-items: center; margin-top: 48px; }
+.article-shell .product-title h2 { margin: 0; }
+.article-shell .article-close { margin-top: 40px; color: var(--ink); }
+@media (max-width: 900px) {
+  .ecosystem, .announcement { gap: 40px; grid-template-columns: 1fr 1.25fr; }
+  .project-heading { flex-wrap: wrap; gap: 12px; }
+  .product-status { max-width: none; }
+}
+@media (max-width: 640px) {
+  .ecosystem, .announcement { display: block; padding-top: 64px; padding-bottom: 64px; }
+  .utility-list, .announcement-copy { margin-top: 36px; }
+  .ecosystem-intro > p { max-width: none; }
+  .article-shell { padding-inline: 24px; margin-top: 40px; }
+  .article-shell h2 { font-size: 28px; }
+  .article-shell .article-lead { font-size: 21px; }
+}
+
+/* One understated buy destination, using Bags.fm’s official monochrome icon. */
+.bags-icon { width: 24px; height: 24px; mix-blend-mode: screen; }
+.buy-salvor { white-space: nowrap; }
+.utility-cta { margin-top: 32px; }
+.utility-cta .buy-salvor {
+  max-width: 100%;
+  padding: 14px 20px;
+  border: 1px solid var(--ink);
+  border-radius: 4px;
+  background: var(--ink);
+  color: var(--page);
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: normal;
+  gap: 10px;
+}
+.utility-cta .buy-salvor:hover { background: #fff; border-color: #fff; }
+.utility-cta .bags-icon { filter: invert(1); mix-blend-mode: multiply; }
+.footer nav { flex-wrap: wrap; }
+@media (max-width: 1000px) {
+  .masthead .nav-local { display: none; }
+  .masthead nav { gap: 20px; }
+}
+@media (max-width: 640px) {
+  .masthead { flex-wrap: wrap; row-gap: 8px; }
+  .masthead nav { width: 100%; justify-content: space-between; }
+  .hero-copy { padding-top: 160px; }
+}

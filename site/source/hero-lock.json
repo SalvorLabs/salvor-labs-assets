@@ -1,0 +1,16 @@
+{
+  "status": "operator-approved",
+  "hero": {
+    "path": "media/horizon-dusk-flow-06.webp",
+    "sha256": "95331180b68b9d987e25ad478b3f20e5bbc385c7d3e46701c12557da75de076d"
+  },
+  "social": {
+    "svg": "source/social/salvorlabs-social-7ba07a8dc215fb59.svg",
+    "png": "media/social/salvorlabs-social-7ba07a8dc215fb59.png",
+    "jpg": "media/social/salvorlabs-social-7ba07a8dc215fb59.jpg",
+    "provenance": "source/social/salvorlabs-social-7ba07a8dc215fb59.json"
+  },
+  "imageUrl": "https://salvorlabs.org/media/social/salvorlabs-social-7ba07a8dc215fb59.jpg",
+  "width": 1200,
+  "height": 630
+}
