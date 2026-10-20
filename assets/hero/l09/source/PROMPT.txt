@@ -1,0 +1,13 @@
+Use case: background-extraction / precise compositing.
+Create a HIGH-RESOLUTION INDEPENDENT TRANSPARENT PNG asset from the supplied approved hero. Output 3072x2048 pixels with a genuine RGBA alpha channel, not an opaque background or checkerboard.
+
+EXTRACT THIS EXISTING OBJECT GROUP faithfully:
+1. The exact hovering mirror-chrome sphere, including its existing reflected sunset/desert and rainbow environment within the metal.
+2. The exact centered L09 brain/knowledge-graph logo on its front: thin white-hot/amber glowing cut channels, small bright nodes and the existing short warm beams.
+3. ALL the surrounding lively rainbow flowing neon swirls, diagonal front ribbon, lower front arc, fine light filaments and their soft luminous fringes. Preserve their original colors, shapes, thickness modulation, crossings and spatial arrangement.
+4. The SOFT WHITE OVAL HOVER GLOW directly BELOW the sphere, plus its restrained cyan/magenta luminous fringe, as a separate light bloom with soft translucent falloff. Keep its relative distance below the sphere. The bottom glow itself is included, not a patch of ground.
+
+REMOVE the background entirely: no sky, sunset horizon, hills, desert, earth/cracks, floor, water, ground reflection of the ball, black backdrop, gray backdrop, or checkerboard painted into the image. Retain the desert/horizon REFLECTION IN THE SPHERE because it belongs to the chrome material, but no exterior environment. The oval lower glow floats in transparency without ground texture, dark oval shadow or reflected sphere attached.
+
+Keep the sphere, logo and swirls exactly recognizable from this source. No restyling or geometry changes, no different neon design, no extra swirl, no repositioned logo, no new nodes or different logo, no thick wire cage. Preserve front-versus-back layering, especially the rainbow ribbon passing in front of the logo. Match the source camera and viewing angle.
+Fit the extracted group generously within the 3072x2048 canvas with clean transparent breathing room around all fine glow edges; do not crop any loop or bottom glow. Center the complete extracted group. This is a premium isolated artwork asset for reuse over other layouts. Use smooth fractional alpha for neon bloom and fine filaments; keep the chrome sphere opaque. No text or watermark.

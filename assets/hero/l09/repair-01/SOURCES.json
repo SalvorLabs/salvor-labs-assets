@@ -1,0 +1,27 @@
+{
+  "status": "pending operator review; not propagated",
+  "method": "ImageGen cleanplate + exact G08 source-alpha geometry and deterministic light/occlusion composition",
+  "geometrySource": {
+    "path": "assets/logo/white_on_trans_bg/salvor-labs-logo-512.png",
+    "sha256": "e39888aae28e83763d185a3ac819cff0d89f3ba1bd19b1e967281efa9cdf5a0e",
+    "uniformScale": 0.8125,
+    "skew": 0,
+    "rotation": 0
+  },
+  "outputs": [
+    {
+      "path": "repair-native.png",
+      "sha256": "9705d47a75df5d80fe9cc3e4896186e21a8a86f219619b169ddac7b1179f0b6c"
+    },
+    {
+      "path": "salvorlabs-sphere-l09-geometry-review-3072.png",
+      "sha256": "18ec3dab22b6bf6397a623818f86d09ef4fc1372038d4d2c1dbdabf1f13fd71d"
+    },
+    {
+      "path": "geometry.json",
+      "sha256": "ee0a9fdfb6eccf716d68b7be3dd86741c539014fd092dfe73dd577fc8ed92e71"
+    }
+  ],
+  "productionHeroCardsAndIndependentAssetUnchanged": true,
+  "gitIndexPreserved": true
+}

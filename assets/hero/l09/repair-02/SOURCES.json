@@ -1,0 +1,29 @@
+{
+  "status": "Material treatment review pending; geometry accepted in repair-01",
+  "target": {
+    "path": "../repair-01/repair-native.png",
+    "sha256": "9705d47a75df5d80fe9cc3e4896186e21a8a86f219619b169ddac7b1179f0b6c"
+  },
+  "tool": "Built-in ImageGen material-only edit, local masked composition",
+  "native": [
+    1536,
+    1024
+  ],
+  "export": [
+    3072,
+    2048
+  ],
+  "exportMethod": "Same transparent padding/low-alpha edge cleanup and Lanczos enlargement as prior independent PNG",
+  "outputs": [
+    {
+      "path": "repair-native.png",
+      "sha256": "b37f6b64bcaf279cb25da4ff34f28e92e99334b0ed6fcc2f5119d7a951c399b5"
+    },
+    {
+      "path": "salvorlabs-sphere-l09-cutout-review-3072.png",
+      "sha256": "0fb82408e7e154e6727bc8769302d43494165d361ad20b6dfdd1dd8f650a61cd"
+    }
+  ],
+  "currentHeroSocialAndPrimaryPngReplaced": false,
+  "prompt": "source/PROMPT.txt"
+}

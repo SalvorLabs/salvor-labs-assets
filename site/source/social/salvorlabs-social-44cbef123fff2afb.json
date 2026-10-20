@@ -1,0 +1,73 @@
+{
+  "title": "SalvorLabs — Knowledge that outlives the session.",
+  "width": 1200,
+  "height": 630,
+  "method": "Deterministic SVG composition and Sharp JPEG/PNG export; approved hero is cropped only, with a text-legibility overlay.",
+  "typography": "Exact outlined Focus wordmark; Avenir Next / Segoe UI / Arial headline stack. Focus font family remains unverified.",
+  "trigger": "Explicit operator-approved hero lock; never draft preview changes.",
+  "inputs": [
+    {
+      "path": "media/horizon-dusk-flow-04.webp",
+      "sha256": "d20116e6db90d2f285630c5e42d2a08fb864e28d47d7d3bff74384d25a5ae79f"
+    },
+    {
+      "path": "media/brand/regular-128.png",
+      "sha256": "f4f0e8458eb3225a2d73c4cc701e1217cc0fd01f9612fe6b139a4ced23f8c30d"
+    },
+    {
+      "path": "media/brand/focus.svg",
+      "sha256": "8ace942b006f9b8e79338308be3f4a703487760fb2962cbd0a87382b4aa9b22d"
+    }
+  ],
+  "renderer": {
+    "templateSha256": "ce9a0bea9fafcd05c5aa436031ee78ba5e971b5cced8c0c996c08d1c06bdf731",
+    "versions": {
+      "aom": "3.15.1",
+      "archive": "3.8.9",
+      "cairo": "1.18.6",
+      "cgif": "0.5.4",
+      "exif": "0.6.26",
+      "expat": "2.8.5",
+      "ffi": "3.8.0",
+      "fontconfig": "2.18.3",
+      "freetype": "2.14.3",
+      "fribidi": "1.0.17",
+      "glib": "2.90.0",
+      "harfbuzz": "14.5.0",
+      "heif": "1.23.5",
+      "highway": "1.4.0",
+      "imagequant": "2.4.1",
+      "lcms": "2.19.1",
+      "mozjpeg": "0826579",
+      "pango": "1.58.2",
+      "pixman": "0.46.4",
+      "png": "1.6.58",
+      "proxy-libintl": "0.5",
+      "rsvg": "2.63.2",
+      "tiff": "4.7.2",
+      "uhdr": "2.0.2",
+      "vips": "8.18.7",
+      "webp": "1.6.0",
+      "xml2": "2.15.4",
+      "zlib-ng": "2.3.3",
+      "sharp": "0.35.5"
+    }
+  },
+  "outputs": [
+    {
+      "path": "source/social/salvorlabs-social-44cbef123fff2afb.svg",
+      "bytes": 3869162,
+      "sha256": "56b0bf65a77f44ca8c803fcd25eb687f942d6a97dcfb3d3766d1c9bec980bd41"
+    },
+    {
+      "path": "media/social/salvorlabs-social-44cbef123fff2afb.png",
+      "bytes": 1254477,
+      "sha256": "30d4a91e5bfb0b53da08b1c74f78e8065cf7434f43733851781cf2ae51365416"
+    },
+    {
+      "path": "media/social/salvorlabs-social-44cbef123fff2afb.jpg",
+      "bytes": 186929,
+      "sha256": "d4efd52279ad702b56863029c4ef4f8a554046f26ad26f222daf45f394025a9d"
+    }
+  ]
+}

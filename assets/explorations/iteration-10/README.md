@@ -1,0 +1,7 @@
+# Iteration 10 — edge-connected XS graph
+
+The operator requires the small network to connect to the contour edges, retaining the regular mark's roughly uniform mesh from outer edge to inner seam. Their proposed reduction is three outer connection points instead of the regular mark's five/six. This study interprets that as three outer-edge anchors per half, with corresponding seam contacts and a few broad cells. All new mesh links connect contour/seam junctions rather than floating freely in the dome.
+
+XS10 retains the spherical small-mark arrangement and grayscale family of iteration-09. The regular G08 source in the comparison remains unchanged. Built-in ImageGen generated the study; a targeted correction added the missing middle outer contact on the front right section. PROMPTS.json records both requests. The initial missing-anchor draft, spherical input and final native output are preserved for provenance. These raster previews remain subject to visual review; no exact common vector geometry or production stroke widths are asserted.
+
+XS10-128.png is exactly 128×128 pixels. comparison-128.png displays regular G08 and XS10 on 128-pixel canvases at DPR 1, with framing adjusted to comparable ink size. review.html is the comparison; review-check.json records dimensions. The small final exports follow confirmation of the design. No <=32px final assets, new canonical decision, commit or push.

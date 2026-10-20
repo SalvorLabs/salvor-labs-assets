@@ -1,0 +1,410 @@
+{
+  "imagesPerMode": 28,
+  "modes": [
+    "png",
+    "svg"
+  ],
+  "sourceDimensions": "passed",
+  "singleSourceId": "G08",
+  "nativeDisplayThrough128": "passed",
+  "devicePixelRatio": 1,
+  "desktopOverflow": false,
+  "mobileOverflow": false,
+  "measurements": [
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-512.png",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-256.png",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-128.png",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-64.png",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-32.png",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-16.png",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "../../logo/white_on_black_bg/salvor-labs-logo-8.png",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-512.png",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-256.png",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-128.png",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-64.png",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-32.png",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-16.png",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "../../logo/black_on_white_bg/salvor-labs-logo-8.png",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-512.png",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-256.png",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-128.png",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-64.png",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-32.png",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-16.png",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "../../logo/black_on_trans_bg/salvor-labs-logo-8.png",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-512.png",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-256.png",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-128.png",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-64.png",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-32.png",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-16.png",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "../../logo/white_on_trans_bg/salvor-labs-logo-8.png",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    }
+  ],
+  "svgMeasurements": [
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-512.svg",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-256.svg",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-128.svg",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-64.svg",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-32.svg",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-16.svg",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_black_bg/salvor-labs-logo-8.svg",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-512.svg",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-256.svg",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-128.svg",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-64.svg",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-32.svg",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-16.svg",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_white_bg/salvor-labs-logo-8.svg",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-512.svg",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-256.svg",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-128.svg",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-64.svg",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-32.svg",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-16.svg",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/black_on_trans_bg/salvor-labs-logo-8.svg",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-512.svg",
+      "expected": 512,
+      "width": 512,
+      "height": 512,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-256.svg",
+      "expected": 256,
+      "width": 256,
+      "height": 256,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-128.svg",
+      "expected": 128,
+      "width": 128,
+      "height": 128,
+      "displayed": 128
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-64.svg",
+      "expected": 64,
+      "width": 64,
+      "height": 64,
+      "displayed": 64
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-32.svg",
+      "expected": 32,
+      "width": 32,
+      "height": 32,
+      "displayed": 32
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-16.svg",
+      "expected": 16,
+      "width": 16,
+      "height": 16,
+      "displayed": 16
+    },
+    {
+      "file": "file:///Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets/assets/logo/white_on_trans_bg/salvor-labs-logo-8.svg",
+      "expected": 8,
+      "width": 8,
+      "height": 8,
+      "displayed": 8
+    }
+  ],
+  "errors": []
+}

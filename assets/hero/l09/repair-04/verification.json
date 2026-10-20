@@ -1,0 +1,35 @@
+{
+  "status": "Export and review checks passed; appearance awaits operator confirmation",
+  "dimensions": [
+    4096,
+    2654
+  ],
+  "alpha": {
+    "zero": 4067078,
+    "partial": 4034106,
+    "opaque": 2769600
+  },
+  "clearBorderPixels": [
+    5,
+    5,
+    5,
+    5
+  ],
+  "nonzeroAlphaPixelsInBorder": 0,
+  "unchangedGraphPixels": 5643,
+  "productionHeroCardsAndPrimaryPngUnchanged": true,
+  "gitIndexUnchanged": true,
+  "salvorUnchanged": true,
+  "browserViewports": [
+    [
+      1280,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "browserErrors": [],
+  "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+}

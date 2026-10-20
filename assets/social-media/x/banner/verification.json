@@ -1,0 +1,24 @@
+{
+  "status": "Passed",
+  "standard": [
+    1500,
+    500
+  ],
+  "highResolution": [
+    3000,
+    1000
+  ],
+  "formats": [
+    "PNG",
+    "JPEG",
+    "SVG composition"
+  ],
+  "opaqueHeader": true,
+  "canonicalInputsUnchanged": true,
+  "deterministicRecipeReproduced": true,
+  "logoInsideCentralDisplayBand": true,
+  "logoClearOfApproximateAvatar": true,
+  "websiteHeroCardsUnchanged": true,
+  "gitIndexUnchanged": true,
+  "salvorUnchanged": true
+}

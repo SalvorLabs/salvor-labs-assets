@@ -1,0 +1,27 @@
+{
+  "sizes": [
+    {
+      "width": 128,
+      "height": 128
+    },
+    {
+      "width": 128,
+      "height": 128
+    }
+  ],
+  "dpr": 1,
+  "overflow": false,
+  "PNGs": [
+    {
+      "file": "XS09-A-128.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "file": "XS09-B-128.png",
+      "width": 128,
+      "height": 128
+    }
+  ],
+  "sourceBytePreserved": true
+}

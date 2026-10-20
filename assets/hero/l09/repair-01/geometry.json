@@ -1,0 +1,15 @@
+{
+  "width": 1536,
+  "height": 1024,
+  "sourceLogo": "assets/logo/white_on_trans_bg/salvor-labs-logo-512.png",
+  "uniformScale": 0.8125,
+  "logoCanvas": {
+    "left": 616,
+    "top": 331,
+    "width": 416,
+    "height": 416
+  },
+  "cleanplate": "exec-5b5c8b86-ae22-42da-b326-78d37d3e1132.png",
+  "lockedOutsideLocalPlatePixels": 1392015,
+  "occlusion": "Continuous ribbon-edge occlusion traced on the clean plate; no old strip pixels or independent per-column jumps"
+}

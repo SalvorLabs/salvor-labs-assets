@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-09",
+  "method": "Potrace 2.1.8 B\u00e9zier contours; logos preserve 64 grayscale levels with cumulative opacity, wordmark uses a single filled glyph path; no embedded raster",
+  "parameters": {
+    "blackOnWhite": false,
+    "turdSize": 0,
+    "alphaMax": 1,
+    "optCurve": true,
+    "optTolerance": 0.1
+  },
+  "thresholds": "1 through 253 in steps of 4",
+  "toolDocumentation": "https://github.com/tooolbox/node-potrace",
+  "sources": [
+    {
+      "id": "G08",
+      "input": "masters/logo/regular.png",
+      "output": "masters/logo/regular.svg",
+      "inputSha256": "eba2fe25fc60a8a2ec8e9b6202c15f6eb419c0999d4e4588c897735858cf13a7",
+      "outputSha256": "6737caa710899bd8b53d7e724de857a405f68202012921fca6d65a77ead2bc2a",
+      "viewBox": [
+        0,
+        0,
+        900,
+        900
+      ],
+      "layers": 64,
+      "bytes": 4531744
+    },
+    {
+      "id": "B3-W05-Focus",
+      "input": "masters/wordmark/focus.png",
+      "output": "masters/wordmark/focus.svg",
+      "inputSha256": "f0b4671a6ccd80d21b9419f63c8325dd42afe11e049f420b372b8eeb2a8c594d",
+      "outputSha256": "8ace942b006f9b8e79338308be3f4a703487760fb2962cbd0a87382b4aa9b22d",
+      "viewBox": [
+        0,
+        0,
+        209,
+        36
+      ],
+      "layers": 1,
+      "bytes": 5529,
+      "method": "Single filled glyph contour at threshold 128; text is flat ink"
+    }
+  ],
+  "updated": "2026-10-19"
+}

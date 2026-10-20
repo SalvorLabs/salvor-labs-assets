@@ -1,0 +1,27 @@
+{
+  "width": 1672,
+  "height": 941,
+  "artwork": {
+    "path": "assets/hero/l09/repair-04/salvorlabs-sphere-l09-contained-transparent-4096.png",
+    "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+  },
+  "background": "Previous approved dusk hero with local clean-plate replacement behind the object; ground reflected illumination retained",
+  "sprite": {
+    "left": 288,
+    "top": 7,
+    "width": 1100
+  },
+  "backgroundMask": {
+    "left": 270,
+    "right": 1430,
+    "bottom": 740,
+    "horizontalFeather": 45,
+    "bottomFeather": 50
+  },
+  "lockedOuterLandscapePixels": 714952,
+  "lockedPixelMismatches": 0,
+  "changedPixels": 841807,
+  "losslessWebpVerified": true,
+  "logoReinterpreted": false,
+  "method": "Deterministic alpha composition of the exact approved transparent artwork over a locally cleaned background; no logo or sphere regeneration"
+}

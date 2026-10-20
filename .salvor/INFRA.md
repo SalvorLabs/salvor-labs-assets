@@ -1,0 +1,69 @@
+# salvor-labs-assets Infrastructure
+
+## Repository and local checkouts
+Remote: https://github.com/SalvorLabs/salvor-labs-assets.git
+Current local clone: `/Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets`.
+
+The sibling `../salvor` is the separate Salvor product repository. All Labs identity and organization website work belongs in this assets repository. The old nested checkout at `/Users/dwasyluk/dwasyluk/Development/salvor-labs-assets` is retained as a pre-migration source; use the current checkout for further work.
+
+## Preserved website mock
+`site/` contains the responsive Horizon HTML/CSS mock, its generated source imagery, brand copies and review captures. It has no framework, JavaScript, external font or runtime dependency. Open `site/index.html`, or serve that directory with a local static server. Paths within the page are relative and self-contained.
+
+During the 2026-10-16 directory correction, all website files were copied without design changes. The site remains untracked on the logo branch for preservation; it has not been integrated into dev. The later twelve-hour preview is published separately as described below. Release work is paused. The original external mock is also retained.
+
+## Migration preservation
+Verified backups of the complete old assets checkout (including Git metadata and unversioned files), the new empty clone metadata and the original website mock are outside both repos at `../.recovery/2026-10-16-labs-migration/`. `migration-verification.json` records file hashes and verification results. Historical review JSON may retain the original local file URLs as evidence from that run; current HTML references are portable.
+
+Salvor was inspected read-only: its tracked worktree was clean, all 592 tracked files were unchanged, and HEAD matched remote main/dev at `9140ea9`. No re-clone, restoration or deletion was necessary. Its ignored resources were retained.
+
+## Tooling
+Salvor Core. Neither Serena nor GitNexus has project state in this repository. Do not query the product repository's index for Labs work. No global/client configuration changed.
+
+## Generation and deployment
+Logo concept sheets and the original website landscape use built-in Codex ImageGen. No API keys stored. No permanent deployment, metrics or automated release process is configured. The existing signed baseline is `1e0a3ea`; migration did not add commits, pushes or releases. The subsequent temporary preview is separate from the paused release.
+
+## Deterministic production exports
+The local Node tools in `assets/tools/` use Sharp 0.35.4 for raster sizing/compositing and SVG checks. Vector tracing uses Potrace 2.1.8, installed in a temporary tools directory for the original run; no global/client configuration changed. Module paths can be supplied with CLI arguments. Canonical masters and provenance are saved in `assets/masters/`; `assets/EXPORT_SETS.json` defines shared formats, treatments and size bases. Commands and overwrite protections are documented in `assets/tools/README.md`.
+
+The logo review has a PNG/SVG switch. Earlier browser verification covered 28 loaded assets per mode, DPR 1, actual-size display through 128px, and desktop/mobile overflow. No install or server is required to use the exported PNG/SVG files.
+
+## Temporary Pages preview — 2026-10-16
+The operator separately authorized publishing the current mock for twelve hours. The live URL is https://salvorlabs.github.io/salvor-labs-assets/. GitHub Pages publishes the root of `gh-pages-preview`, signed commit `c72d6f5a2cf1741bab649f88322fd8fcaac5ccb2`. The branch contains the six unchanged runtime files plus `.nojekyll` and a disallow-all `robots.txt`. No custom domain or DNS was changed. The automatic Pages build succeeded and all seven publicly relevant files returned HTTP 200 with exact local hashes.
+
+Heartbeat `unpublish-salvorlabs-temporary-preview` is active with a 720-minute interval and authorizes takedown no earlier than 2026-10-17 15:30:29 UTC. Local scheduled tasks require the laptop and app running. Before unpublishing, verify the source branch/path, expected remote commit and absence of a custom domain; if these changed, report rather than disable a superseding site. Disable only the matching Pages site and retain all files/branches. Pause the heartbeat after completion. The local publication record is `.tmp/pages-preview/deployment.json`.
+
+Canonical branch HEAD and its exact staged index were preserved using a separate temporary Git index. No dev/main integration, version increment or release was performed. Salvor was not modified.
+
+The live verification preceded a concurrent external Pages change attaching salvorlabs.org. Subsequent checks found a GitHub 301 from the project URL to http://salvorlabs.org/, then a Cloudflare 301 to https://github.com/SalvorLabs; CSS/image requests also forward to the profile. The source commit remains c72d6f5. The operator was asked whether to detach the custom domain temporarily to restore the working github.io preview, and whether twelve-hour expiry still applies. No DNS or custom-domain change was made by this task. The existing heartbeat guard will not unpublish the changed custom-domain configuration. Current blocker is the domain forwarding configuration, not the built page.
+
+The operator authorized restoring the temporary github.io preview, then explicitly requested the fastest live page plus organization URL/link. Pages custom domain was cleared, HTTPS restored and the unchanged runtime verified again at 2026-10-17 03:34:45 UTC. GitHub automatic CNAME removal produced 3922fc7 (same runtime tree as c72d6f5). The SalvorLabs organization Website field was updated from https://salvorlabs.org to https://salvorlabs.github.io/salvor-labs-assets/ and freshly verified. DNS and all Salvor files remain unchanged. The existing heartbeat now guards 3922fc7 and the twelve-hour window ending no earlier than 2026-10-17 15:34:45 UTC. The redirect blocker is resolved for the live github.io link.
+
+Operator-fixed Cloudflare DNS now resolves apex/www to GitHub Pages. HTTP page, CSS, hero and brand assets all return 200 and match the six local runtime files; the prior org-profile redirect is gone. HTTPS verification still fails hostname validation, and GitHub reports no custom-domain certificate yet. Existing heartbeat was updated to check every five minutes (at most six pending attempts), enable Enforce HTTPS once valid, then resume the original twelve-hour expiry. Guard expects current CNAME commit 11ee366 and salvorlabs.org. No TLS bypass, DNS mutation or Salvor change was performed.
+
+The user authorized a matching social sharing card and publishing it before retriggering Pages. A 1200×630 JPEG/PNG and editable SVG composition preserve the existing hero and approved G08/Focus art; headline and font stack match the site. Open Graph/X metadata uses absolute HTTPS URLs, image dimensions/type/alt and the canonical domain. robots.txt now permits social crawlers; search noindex remains. Local metadata, crawler policy, source hashes and unchanged visible page checks pass. GitHub approved the custom-domain certificate during this work; HTTPS was verified and enforced. The signed social publication is waiting for Secretive approval; no social-card push has happened yet.
+
+Social-card publication completed as signed commit 604a923 on origin/gh-pages-preview after Secretive approval. Pages workflow 39000961099 succeeded. The live HTTPS HTML matches the updated local file; Open Graph and summary_large_image X metadata, canonical URL, 1200×630 image, 172,673-byte JPEG hash, robots access and HTTP-to-HTTPS redirect passed fresh checks using Twitterbot/facebookexternalhit user agents. Existing artwork, visible page body, canonical HEAD/index and Salvor remain unchanged. The original twelve-hour expiry is preserved; certificate polling ended and its guard now expects commit 604a923 with salvorlabs.org. No dev/main integration or release occurred. Verification is at .tmp/pages-preview/social-publication/live-verification.json and site/review/social-card/verification.json.
+
+## 2026-10-17 — DNS validation complete; original expiry retained
+At 2026-10-17T04:30:39Z, GitHub Pages health reports both salvorlabs.org and www.salvorlabs.org valid. Public 1.1.1.1/8.8.8.8 return the correct www CNAME; apex and social-card HTTPS return 200, and a fresh-address www request passes TLS and redirects to the apex. The laptop default resolver still returns the earlier lookup failure. No DNS, domain-setting or deployment mutation was needed. The same heartbeat now waits only for the original 2026-10-17 15:34:45 UTC expiry, with the unchanged branch/commit/path/domain guard; all files, staging and branches remain preserved.
+
+## 2026-10-18 — Temporary Pages preview expired and unpublished
+Execution resumed after the original 2026-10-17 15:34:45 UTC deadline. At 2026-10-18T13:39:06.169300+00:00, the source still matched gh-pages-preview/604a923c508e6c4d3efbb93dd69423023847eab3, path /, custom domain salvorlabs.org, so the authorized Pages DELETE was performed. A subsequent authenticated GET returned HTTP 404, confirming no Pages configuration. The remote preview commit and local HEAD, index, refs and full untracked-file status were verified unchanged by takedown. The heartbeat is PAUSED. Source files, social cards, all branches and unversioned resources are retained; Salvor, DNS, the organization profile, dev/main and releases were untouched. Actual timing is recorded without backdating in .tmp/pages-preview/deployment.json; verification evidence is .tmp/pages-preview/expiry-verification.json.
+
+## 2026-10-19 — Approved local hero and compact responsive review
+The operator resumed Labs website work after confirming repository isolation. Detailed graph artwork now appears in the phone/tablet header and footer, with the existing outline retained only for the favicon. Iterative built-in ImageGen edits explored dusk, reflective rainbow neon, modulated stroke widths, a diagonal foreground arc, levitation/shadow and the stamped graph. The operator approved the scene, then selected the thinner stamp treatment and requested its centered placement. The final hero uses a local masked retouch with lossless export; 1,509,160 locked pixels and the foreground neon are unchanged outside the imprint mask. Sources, prompts, prior images and exact evidence are retained under site/source/dusk-flow-01 through -04; original art and working baseline remain intact.
+
+The local review at http://127.0.0.1:64613/?cut=dusk-flow-05 adds the footer graph, SalvorLabs trademark/copyright notice and labeled GitHub/X SVG links. The latest operator request reduced hero/title spacing and excessive minimum height; the approved artwork was not changed in that layout pass. Chrome verification passes for 1440×900, 768×1024, 390×844, 320×760, 768×700 and 1440×600, with no overflow, missing images or page errors, intact keyboard/anchor behavior and the lab link in the initial view. See site/review/dusk-flow-05/verification.json and the GHPAGE spoke. Original canonical HEAD/index and the clean Salvor product checkout were verified unchanged. No public deployment, DNS/organization mutation, merge, release or deletion occurred; the expiry heartbeat remains paused.
+
+
+## 2026-10-19 — Single graph, product artwork and approved-hero sharing cards
+The operator explicitly retired the SM/XS alternate and its size-switch rule. Active alternate masters and the outline favicon were removed; all 56 canonical PNG/SVG exports now use the unchanged G08 source at 512/256/128/64/32/16/8px. Larger exports remain byte-identical; historical explorations remain preserved. Header/footer and 16/32px favicons use the full graph. Black/white regular Salvor product PNG and SVG originals were copied with provenance into assets/products/salvor; the white PNG appears beside the Salvor project heading. The product source checkout remains unchanged.
+
+The approved lossless hero remains media/horizon-dusk-flow-04.webp. The matching 1200×630 social JPEG/PNG and editable SVG use that image, exact G08/Focus art, the site headline and a text-legibility shade. Open Graph/X reference the new keyed JPEG. The exporter requires an explicit --lock-hero path matching the page, records the hero hash/provenance, updates metadata and the runtime manifest, and preserves previous exports. Ordinary preview iterations never invoke it. The current lock and workflow are owned by site/source/hero-lock.json and site/README.md; review evidence is site/review/social-card-dusk/. Current local page is ?cut=dusk-flow-06. Canonical staging/HEAD and product checkout remain preserved; no public deployment or integration occurred. Component counters remain reserved until dev integration.
+
+
+## 2026-10-19 — L09 local lock and reusable artwork
+Current local page: http://127.0.0.1:64613/?cut=dusk-flow-07; hero/card/transparency review: /review/dusk-flow-07/. source/hero-lock.json identifies the new L09 hero and refreshed sharing URLs; the explicit lock exporter derives alt text from the current hero. The independent RGBA asset is owned by assets/hero/l09 and copied byte-for-byte into site/media/artwork. Canonical index/HEAD and product checkout remain preserved; no external publication/settings changed.
+
+## 2026-10-20 — Visual source save on gh-pages-preview
+The operator authorized a signed visual-only commit/push on the gh-pages-preview branch in the assets repository. An alternate temporary Git index selects visual files and filtered operational brain snapshots; page/copy work remains separate in the shared worktree. This save does not deploy Pages, alter DNS/profile settings, integrate dev, create a release or modify the Salvor product checkout. Earlier branch descriptions above remain dated history.

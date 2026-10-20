@@ -1,0 +1,19 @@
+{
+  "canvases": [
+    {
+      "width": 128,
+      "height": 128
+    },
+    {
+      "width": 128,
+      "height": 128
+    }
+  ],
+  "dpr": 1,
+  "overflow": false,
+  "outputPNG": {
+    "width": 128,
+    "height": 128
+  },
+  "sourceCopiesBytePreserved": true
+}

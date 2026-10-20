@@ -1,0 +1,24 @@
+{
+  "sizes": [
+    {
+      "width": 128,
+      "height": 128
+    },
+    {
+      "width": 64,
+      "height": 64
+    },
+    {
+      "width": 32,
+      "height": 32
+    }
+  ],
+  "marks": 4,
+  "overlayLayers": 5,
+  "overflow": false,
+  "dpr": 1,
+  "sourceBytePreservation": {
+    "D09": true,
+    "Focus": true
+  }
+}

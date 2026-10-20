@@ -1,0 +1,28 @@
+{
+  "selection": "Operator approved L09 white-hot cutouts with warm beams on 2026-10-19",
+  "tool": "Built-in ImageGen",
+  "heroLock": "../../../site/source/hero-lock.json",
+  "hero": {
+    "path": "media/horizon-dusk-flow-05.webp",
+    "sha256": "f474582025ea6c28e4009adc1c8a49cec43f4c4e90d2a65ea668089f0aeaa84b"
+  },
+  "nativeCutout": {
+    "path": "source/cutout-native.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "6e227bd641794fe73374902991c3db9f82e481f8e599b6062a611a1b5748bd55"
+  },
+  "export": {
+    "path": "salvorlabs-sphere-l09-transparent-3072.png",
+    "width": 3072,
+    "height": 2048,
+    "channels": "RGBA",
+    "sha256": "f0078cd91a6468810efe66010be706d27a7d4ef15dc839cf7f46493b02b13e4c",
+    "method": "1536x1024 native generation; clear negligible alpha noise, ease low-alpha frame fringe, pad to1728x1152 and resize with Lanczos3 to3072x2048. Alpha preserved; opaque core restored."
+  },
+  "runtimeCopy": {
+    "path": "../../../site/media/artwork/salvorlabs-sphere-l09-transparent-3072.png",
+    "sha256": "f0078cd91a6468810efe66010be706d27a7d4ef15dc839cf7f46493b02b13e4c"
+  },
+  "prompt": "source/PROMPT.txt"
+}

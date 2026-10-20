@@ -1,0 +1,21 @@
+Use case: precise-object-edit.
+Asset: ONE nine-up 3x3 contact sheet. Edit the supplied contact-sheet template itself; retain its exact layout, the nine identical camera crops, typography, panel boundaries and labels. High resolution 2040x2360 or larger at exactly the same aspect ratio.
+
+INPUT 1 is the EDIT TARGET: nine copies of the SAME approved chrome sphere hero crop. INPUT 2 is an enlarged identity reference for the exact existing stamped graph. The request is ONLY to vary the local illumination/material treatment of that existing logo. This is NOT a redesign of the sphere, logo or scene.
+
+ABSOLUTE INVARIANTS IN ALL 9 CELLS:
+The same logo must stay at the exact existing center, width, height, orientation, proportions and graph topology. Keep every node and connection in place. The chrome sphere silhouette, reflections, sky, sunset, desert, hover height, shadow, white ground light, composition and ALL existing rainbow ribbons stay unchanged. In particular the diagonal rainbow ribbon passes IN FRONT OF and occludes the logo exactly as it does now. Do not erase, recolor, move or reshape this foreground ribbon.
+Do not make another 3D brain inside the sphere. No floating badge, wire cage, extra glyph, text on the sphere, or new logo. Only existing shallow graph channels/node depressions or front-surface through-cut versions of those same channels and nodes. Keep the uncut metal areas reflective.
+
+Apply these nine clearly distinguishable treatments at the fixed positions already labeled:
+L01 top left — WHITE CHANNEL / FINE CORE. Keep the shallow die-stamped imprint; a very thin pure-white luminous filament runs along the bottom of every existing groove and node. Tiny tight halation, dark bevel edge still visible. Elegant and restrained, no rays.
+L02 top middle — WHITE CHANNEL / SOFT BLOOM. Same imprint and exact topology, bright white illuminated groove bottoms with a soft, controlled local white bloom reflecting in the neighboring chrome. No light rays.
+L03 top right — WHITE CHANNEL / BRIGHTER NODES. Same flush imprint, thin white traces, slightly brighter white flat node depressions with small glints; localized white illumination emphasizes the junctions. Not spherical rivets. No rays.
+L04 middle left — WHITE CUTOUT / NO BEAMS. Replace just the existing logo grooves and node shapes with precise through-cut slots in the FRONT metal skin of a hollow sphere. Subtle dark machined bevels, intense neutral-white light visible through the narrow logo apertures. Everything else remains chrome, back shell intact. No emitting rays.
+L05 middle middle — WHITE CUTOUT / SOFT BEAMS. The same front-only logo-shaped apertures and bright white interior light as L04, plus a few tasteful short soft volumetric white shafts projecting FORWARD from those apertures toward the viewer. Preserve a readable graph, not a solid white flare.
+L06 middle right — WHITE CUTOUT / FOCUSED BEAMS. Same front-only white apertures, slightly crisper directional white beams from a few logo channels. Restrained cinematic projection with controlled exposure; not a giant starburst, and no rays from outside the logo.
+L07 bottom left — AMBER CUTOUT / NO BEAMS. Same front-only precise apertures, warm orange/firelike interior illumination with white-hot narrow cores, amber edges and subtle orange reflection in adjacent metal. No beams, no fire outside the sphere.
+L08 bottom middle — FIRELIT CUTOUT / SOFT BEAMS. Same orange/firelit logo apertures, plus a small soft fan of warm volumetric rays coming out from the logo only. White-hot centers, warm orange falloff, restrained and premium.
+L09 bottom right — WHITE-HOT CUTOUT / WARM BEAMS. The same aperture geometry with a brighter white-hot interior and orange/firelike lining; two or three short distinctive forward warm beams and subtle glints at the openings. The graph remains fully legible, no explosion, no sparks or smoke.
+
+ALL NEW EMISSION IN L01-L06 IS WHITE, not rainbow. Warm orange/fire coloration only for L07-L09. Existing rainbow surroundings retain their original colors. Do not enlarge any logo to make it brighter. No whole-sphere glow or altered environment lighting. Show local channel bloom/near-surface bounce only. Preserve the text labels exactly. Make ONE finished 9-up sheet, no extra panels.

@@ -1,0 +1,18 @@
+{
+  "width": 1536,
+  "height": 1024,
+  "source": "../repair-02/repair-native.png",
+  "edit": "Shorter, dimmer logo light cones only",
+  "requestedProjectionScale": 0.5,
+  "requestedVisibilityScale": 0.5,
+  "addedImageBlur": 0,
+  "lockedPixels": 1491876,
+  "lockedPixelMismatches": 0,
+  "changedPixels": 76338,
+  "protectedGraphPixels": 43119,
+  "protectedGraphMismatches": 0,
+  "protectedRibbonPixels": 46668,
+  "outerSwirlAndLowerGlowUnchanged": true,
+  "alphaUnchanged": true,
+  "method": "Built-in ImageGen focused lighting edit with half-length/half-visibility brief; localized composition preserves canonical graph, foreground ribbons and the entire outer swirl. Numeric scales describe the brief, not a calibrated physical simulation."
+}

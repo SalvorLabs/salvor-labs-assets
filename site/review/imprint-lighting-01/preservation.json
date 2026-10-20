@@ -1,0 +1,176 @@
+{
+  "status": "Exploratory only; no approved hero or sharing asset replaced",
+  "base": "site/media/horizon-dusk-flow-04.webp",
+  "baseSha256": "d20116e6db90d2f285630c5e42d2a08fb864e28d47d7d3bff74384d25a5ae79f",
+  "method": "Built-in ImageGen treatments composited locally over unchanged source; deterministic labels and fixed crop; all foreground neon protected",
+  "crop": {
+    "left": 540,
+    "top": 100,
+    "width": 640,
+    "height": 640
+  },
+  "candidates": [
+    {
+      "id": "L01",
+      "treatment": "White channel \u00b7 fine core",
+      "fullHero": "candidates/L01.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 64245,
+      "lockedPixels": 1509107,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 61340,
+      "sha256": "72aabdc4ef2521e12f9311a3621bd5c53c5c47c9608c64f91ea3d678f762f0a8",
+      "mask": "Local imprint ellipse; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L02",
+      "treatment": "White channel \u00b7 soft bloom",
+      "fullHero": "candidates/L02.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 64245,
+      "lockedPixels": 1509107,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 61208,
+      "sha256": "c9c4ea14a7d5d1b66e2805df3e3539bb2893e2d2655429a6530993504f4cc6a6",
+      "mask": "Local imprint ellipse; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L03",
+      "treatment": "White channel \u00b7 brighter nodes",
+      "fullHero": "candidates/L03.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 64245,
+      "lockedPixels": 1509107,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 61322,
+      "sha256": "4c65fb4883fc66e1e75fd4a103d3d10f372e5f0ac0b0ee6d95d7bb9e41cc58aa",
+      "mask": "Local imprint ellipse; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L04",
+      "treatment": "White cutout \u00b7 no beams",
+      "fullHero": "candidates/L04.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 64245,
+      "lockedPixels": 1509107,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 61303,
+      "sha256": "70d048fddfede14e060f293341917cd922ce22c81ef307abfaa3d18f842d788a",
+      "mask": "Local imprint ellipse; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L05",
+      "treatment": "White cutout \u00b7 soft beams",
+      "fullHero": "candidates/L05.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 98745,
+      "lockedPixels": 1474607,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 94119,
+      "sha256": "b11c7638df34868ad65a0e2ab902fe3fb88cbb72da5c8e40d706b0637555d218",
+      "mask": "Local ellipse including short rays; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L06",
+      "treatment": "White cutout \u00b7 focused beams",
+      "fullHero": "candidates/L06.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 98745,
+      "lockedPixels": 1474607,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 94312,
+      "sha256": "78e90613c75949ec85c9dc3efc1545a50e2705f35e30fc8ca16ba199e6679309",
+      "mask": "Local ellipse including short rays; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L07",
+      "treatment": "Amber cutout \u00b7 no beams",
+      "fullHero": "candidates/L07.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 64245,
+      "lockedPixels": 1509107,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 61637,
+      "sha256": "3fd4d9f3ede23e8574eae859da2a225411dce74c9d652cbe9adca1a26076e265",
+      "mask": "Local imprint ellipse; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L08",
+      "treatment": "Firelit cutout \u00b7 soft beams",
+      "fullHero": "candidates/L08.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 98745,
+      "lockedPixels": 1474607,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 95016,
+      "sha256": "bb46ab8f77bf83103e48a9bf2184c8ecda4cd8894db2d6456946c994d6e58c52",
+      "mask": "Local ellipse including short rays; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    },
+    {
+      "id": "L09",
+      "treatment": "White-hot cutout \u00b7 warm beams",
+      "fullHero": "candidates/L09.png",
+      "width": 1672,
+      "height": 941,
+      "editablePixels": 98745,
+      "lockedPixels": 1474607,
+      "lockedPixelMismatches": 0,
+      "changedPixels": 94950,
+      "sha256": "efddd57b0608b78d48c17ac325aaf91f933787977d85a6ca8304bcfa1d8663a7",
+      "mask": "Local ellipse including short rays; front neon protected",
+      "requestedLogoTranslation": {
+        "x": 0,
+        "y": 0
+      },
+      "requestedLogoScale": 1
+    }
+  ]
+}

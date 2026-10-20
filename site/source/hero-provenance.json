@@ -1,0 +1,15 @@
+{
+  "created": "2026-10-16",
+  "tool": "Built-in ImageGen",
+  "type": "Original generated visual inspired by supplied sphere/desert references",
+  "source": "horizon-original.png",
+  "sourceSha256": "73afb7065a1904aad6313e509b209009780bc741765f5e8f83b8a2d5c5132188",
+  "webImage": "../media/horizon-hero.webp",
+  "webSha256": "4e4c8861b2e57429d2dac00c2a41123f03968418b770894a489f2873112c0d5b",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "bytes": 162186,
+  "processing": "WebP encoding only; no artwork or geometry edits"
+}

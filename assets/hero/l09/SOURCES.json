@@ -1,0 +1,40 @@
+{
+  "selection": "Operator approved contained-glow04 as the canonical L09 scene artwork on 2026-10-20",
+  "approvalDate": "2026-10-20",
+  "heroLock": "../../../site/source/hero-lock.json",
+  "hero": {
+    "path": "media/horizon-dusk-flow-06.webp",
+    "sha256": "95331180b68b9d987e25ad478b3f20e5bbc385c7d3e46701c12557da75de076d",
+    "source": "../../../site/source/dusk-flow-06/"
+  },
+  "approvedStudy": {
+    "path": "repair-04/salvorlabs-sphere-l09-contained-transparent-4096.png",
+    "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+  },
+  "nativeCutout": {
+    "path": "repair-04/expanded-native.png",
+    "width": 1984,
+    "height": 1472,
+    "sha256": "12fefd6869758171d975f586f0a29e2418ed799daed26f7012462061f8faa352",
+    "method": "Composite from1536×1024 native source imagery, expanded for glow containment"
+  },
+  "export": {
+    "path": "salvorlabs-sphere-l09-contained-transparent-4096.png",
+    "width": 4096,
+    "height": 2654,
+    "channels": "RGBA",
+    "clearBorderPixels": 5,
+    "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4",
+    "method": "Approved repair04 export, copied byte-for-byte; enlarged with Lanczos; complete alpha bounds plus5px transparent border"
+  },
+  "runtimeCopy": {
+    "path": "../../../site/media/artwork/salvorlabs-sphere-l09-contained-transparent-4096.png",
+    "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+  },
+  "provenance": "repair-04/SOURCES.json",
+  "previousExport": {
+    "path": "salvorlabs-sphere-l09-transparent-3072.png",
+    "sha256": "f0078cd91a6468810efe66010be706d27a7d4ef15dc839cf7f46493b02b13e4c",
+    "status": "Historical; preserved"
+  }
+}

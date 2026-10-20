@@ -1,0 +1,56 @@
+{
+  "width": 2040,
+  "height": 2360,
+  "crop": {
+    "left": 540,
+    "top": 100,
+    "width": 640,
+    "height": 640
+  },
+  "panel": {
+    "width": 640,
+    "height": 720,
+    "gap": 24,
+    "x0": 36,
+    "y0": 130,
+    "photoTop": 64
+  },
+  "items": [
+    [
+      "L01",
+      "White channel · fine core"
+    ],
+    [
+      "L02",
+      "White channel · soft bloom"
+    ],
+    [
+      "L03",
+      "White channel · brighter nodes"
+    ],
+    [
+      "L04",
+      "White cutout · no beams"
+    ],
+    [
+      "L05",
+      "White cutout · soft beams"
+    ],
+    [
+      "L06",
+      "White cutout · focused beams"
+    ],
+    [
+      "L07",
+      "Amber cutout · no beams"
+    ],
+    [
+      "L08",
+      "Firelit cutout · soft beams"
+    ],
+    [
+      "L09",
+      "White-hot cutout · warm beams"
+    ]
+  ]
+}

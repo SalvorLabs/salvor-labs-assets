@@ -1,0 +1,39 @@
+{
+  "title": "SalvorLabs — Knowledge that outlives the session.",
+  "width": 1200,
+  "height": 630,
+  "method": "Deterministic SVG composition and Sharp JPEG/PNG export; no generative image changes",
+  "typography": "Approved Focus outlined wordmark; headline uses the same Avenir Next / Segoe UI / Arial stack as the page. Focus font family remains unverified.",
+  "sourcePreservation": "Original hero and brand files are unchanged; the hero is cropped to the card ratio and receives a text-legibility overlay.",
+  "inputs": [
+    {
+      "path": "media/horizon-hero.webp",
+      "sha256": "4e4c8861b2e57429d2dac00c2a41123f03968418b770894a489f2873112c0d5b"
+    },
+    {
+      "path": "media/brand/regular-128.png",
+      "sha256": "f4f0e8458eb3225a2d73c4cc701e1217cc0fd01f9612fe6b139a4ced23f8c30d"
+    },
+    {
+      "path": "media/brand/focus.svg",
+      "sha256": "8ace942b006f9b8e79338308be3f4a703487760fb2962cbd0a87382b4aa9b22d"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "source/social-card-v2.svg",
+      "bytes": 1873650,
+      "sha256": "e605885148fa28751bd8175399d684a7da6183d58393a97ac5154d7429bca396"
+    },
+    {
+      "path": "media/social/salvorlabs-social-v2.png",
+      "bytes": 896580,
+      "sha256": "cf71f0e3acdac117e2c7ad39dbd9003d2504066dc147d95b9af9648ad34e7430"
+    },
+    {
+      "path": "media/social/salvorlabs-social-v2.jpg",
+      "bytes": 172673,
+      "sha256": "37fe76f304b632fae07b3b509205a6bbae49985f9c75d0df8bf5b41a74ec9229"
+    }
+  ]
+}

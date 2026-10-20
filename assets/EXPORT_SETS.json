@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "sizes": [
+    512,
+    256,
+    128,
+    64,
+    32,
+    16,
+    8
+  ],
+  "treatments": [
+    {
+      "folder": "white_on_black_bg",
+      "ink": 255,
+      "background": 0,
+      "transparent": false
+    },
+    {
+      "folder": "black_on_white_bg",
+      "ink": 0,
+      "background": 255,
+      "transparent": false
+    },
+    {
+      "folder": "black_on_trans_bg",
+      "ink": 0,
+      "transparent": true
+    },
+    {
+      "folder": "white_on_trans_bg",
+      "ink": 255,
+      "transparent": true
+    }
+  ],
+  "sets": {
+    "logo_only": {
+      "status": "ready",
+      "layout": "square",
+      "master": "masters/logo/regular.png",
+      "sourceId": "G08",
+      "output": "logo",
+      "vectorMaster": "masters/logo/regular.svg"
+    },
+    "logo_wordmark_horizontal": {
+      "status": "prepared",
+      "layout": "symbol-left-wordmark-right",
+      "logoMaster": "masters/logo/regular.png",
+      "wordmarkMaster": "masters/wordmark/focus.png",
+      "sizeBasis": "logo square canvas width",
+      "output": "logo_wordmark_horizontal",
+      "pending": "Review spacing and wordmark-to-symbol scale before exports",
+      "logoVectorMaster": "masters/logo/regular.svg",
+      "wordmarkVectorMaster": "masters/wordmark/focus.svg"
+    },
+    "logo_wordmark_vertical": {
+      "status": "prepared",
+      "layout": "symbol-above-wordmark",
+      "logoMaster": "masters/logo/regular.png",
+      "wordmarkMaster": "masters/wordmark/focus.png",
+      "sizeBasis": "logo square canvas width",
+      "output": "logo_wordmark_vertical",
+      "pending": "Review spacing and wordmark-to-symbol scale before exports",
+      "logoVectorMaster": "masters/logo/regular.svg",
+      "wordmarkVectorMaster": "masters/wordmark/focus.svg"
+    },
+    "wordmark_only": {
+      "status": "prepared",
+      "layout": "wordmark",
+      "wordmarkMaster": "masters/wordmark/focus.png",
+      "sizeBasis": "wordmark canvas width",
+      "output": "wordmark",
+      "pending": "Confirm minimum legible size; the 8px-wide wordmark cannot be assumed readable",
+      "wordmarkVectorMaster": "masters/wordmark/focus.svg"
+    }
+  },
+  "formats": [
+    "png",
+    "svg"
+  ]
+}

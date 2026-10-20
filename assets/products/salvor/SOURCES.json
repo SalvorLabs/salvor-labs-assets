@@ -1,0 +1,32 @@
+{
+  "copied": "2026-10-19",
+  "sourceRepository": "https://github.com/dwasyluk/salvor",
+  "sourceCommit": "9140ea96375f2fa5d4057524855b62a73e0d0538",
+  "processing": "Byte-for-byte copies; no recoloring, resizing or source modifications",
+  "files": [
+    {
+      "file": "salvor-logo-black-128.png",
+      "source": "assets/brand/generated/icons/salvor-logo-black-128.png",
+      "sha256": "84a27e081135f2b967a69b5c88e500a3d6d72107241bd715c34e521efac467c6",
+      "bytes": 13058
+    },
+    {
+      "file": "salvor-logo-white-128.png",
+      "source": "assets/brand/generated/icons/salvor-logo-white-128.png",
+      "sha256": "2c646cd985fdef3d084bb525945c3e24591e62e92c64004300ce795c17290e70",
+      "bytes": 9078
+    },
+    {
+      "file": "salvor-logo-black.svg",
+      "source": "assets/brand/generated/salvor-logo-black.svg",
+      "sha256": "b9e7aec604dc072c8619853de109c68d74a10036223cf209938d6436443df615",
+      "bytes": 2317
+    },
+    {
+      "file": "salvor-logo-white.svg",
+      "source": "assets/brand/generated/salvor-logo-white.svg",
+      "sha256": "687b09fa1c12ff75398fb66111820ea0d8438ec8eaafeea23b7806eef4e91717",
+      "bytes": 2317
+    }
+  ]
+}

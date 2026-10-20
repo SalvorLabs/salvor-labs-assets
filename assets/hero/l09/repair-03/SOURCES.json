@@ -1,0 +1,31 @@
+{
+  "status": "Pending operator review; transparent-only",
+  "tool": "Built-in ImageGen lighting edits and localized source-preserving composition",
+  "target": {
+    "path": "../repair-02/repair-native.png",
+    "sha256": "b37f6b64bcaf279cb25da4ff34f28e92e99334b0ed6fcc2f5119d7a951c399b5"
+  },
+  "native": [
+    1536,
+    1024
+  ],
+  "export": [
+    3072,
+    2048
+  ],
+  "requestedProjectionScale": 0.5,
+  "requestedVisibilityScale": 0.5,
+  "addedImageBlur": 0,
+  "prompts": "source/PROMPTS.json",
+  "outputs": [
+    {
+      "path": "repair-native.png",
+      "sha256": "55bd5d7101a875f31b5fc9829491524e4950b6de78d8d266f03965a5320b2f80"
+    },
+    {
+      "path": "salvorlabs-sphere-l09-projected-light-review-3072.png",
+      "sha256": "ad3cf1dd6da5dc20e51b0644a1d12ce1effb3b74d3e339498f8c1764b30efaee"
+    }
+  ],
+  "productionReplaced": false
+}

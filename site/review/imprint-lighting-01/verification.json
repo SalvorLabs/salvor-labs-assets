@@ -1,0 +1,20 @@
+{
+  "pass": true,
+  "candidates": 9,
+  "contactSheet": {
+    "width": 2040,
+    "height": 2360
+  },
+  "preservation": "At least 1,474,607 pixels per full hero retained exactly, including foreground arcs",
+  "approvedHeroAndCardsUnchanged": true,
+  "pageAndRuntimeAssetsUnchanged": true,
+  "canonicalIndexPreserved": true,
+  "salvorUnchanged": true,
+  "reviewViewports": [
+    1440,
+    390
+  ],
+  "browserErrors": [],
+  "tool": "Built-in ImageGen; deterministic local composition and labels",
+  "published": false
+}

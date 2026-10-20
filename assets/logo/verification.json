@@ -1,0 +1,174 @@
+{
+  "fileCount": 56,
+  "perFolder": {
+    "png": 7,
+    "svg": 7
+  },
+  "checks": [
+    {
+      "size": 512,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 94412,
+      "partialPixels": 167701
+    },
+    {
+      "size": 256,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 23713,
+      "partialPixels": 41805
+    },
+    {
+      "size": 128,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 6637,
+      "partialPixels": 9707
+    },
+    {
+      "size": 64,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 1637,
+      "partialPixels": 2434
+    },
+    {
+      "size": 32,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 357,
+      "partialPixels": 666
+    },
+    {
+      "size": 16,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 61,
+      "partialPixels": 195
+    },
+    {
+      "size": 8,
+      "dimensions": "pass",
+      "transparencyAndGrayscale": "pass",
+      "compositingConsistency": "pass",
+      "transparentPixels": 5,
+      "partialPixels": 59
+    }
+  ],
+  "pngCount": 28,
+  "svgCount": 28,
+  "svgChecks": [
+    {
+      "size": 512,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    },
+    {
+      "size": 256,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 1.8511810302734375,
+        "maskIoU": 0.9709170770664182,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    },
+    {
+      "size": 128,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 2.359375,
+        "maskIoU": 0.9614997483643684,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    },
+    {
+      "size": 64,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 4.47998046875,
+        "maskIoU": 0.9268092105263158,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    },
+    {
+      "size": 32,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 8.19921875,
+        "maskIoU": 0.86,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    },
+    {
+      "size": 16,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 14.28515625,
+        "maskIoU": 0.7925925925925926,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    },
+    {
+      "size": 8,
+      "svgDimensions": "pass",
+      "pathsOnly": "pass",
+      "nativePngComparison": {
+        "meanAlphaError": 18.671875,
+        "maskIoU": 0.75,
+        "interpretation": "Informational: different native antialiasing versus PNG resampling"
+      },
+      "common512Comparison": {
+        "meanAlphaError": 1.7070884704589844,
+        "maskIoU": 0.9783810197822936,
+        "fidelity": "pass"
+      }
+    }
+  ]
+}

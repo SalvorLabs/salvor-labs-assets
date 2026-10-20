@@ -1,0 +1,21 @@
+{
+  "status": "Technical checks passed; visual approval pending",
+  "transparentPng": {
+    "width": 3072,
+    "height": 2048,
+    "alphaRange": [
+      0,
+      255
+    ]
+  },
+  "approvedG08GeometrySourceUsed": true,
+  "uniformScale": true,
+  "currentHeroCardsAndPrimaryPngUnchanged": true,
+  "gitIndexPreserved": true,
+  "salvorUnchanged": true,
+  "reviewViewports": [
+    1280,
+    390
+  ],
+  "browserErrors": []
+}

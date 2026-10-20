@@ -1,0 +1,6 @@
+Use case: precise-object-edit.
+Create a CLEAN BACKGROUND PLATE from this existing approved SalvorLabs hero.
+Remove the entire hovering chrome sphere, its logo, ALL airborne rainbow ribbons/filaments and their glow, and the small white oval glow immediately below it. Fill those occupied regions with a seamless continuation of the existing dark blue dusk sky, warm thin sunset horizon and wet cracked desert surface. The airborne object and every trace of its silhouette must be completely absent. No floating shape, no ghost circle, no remaining stripe in the sky.
+
+Keep the camera, horizon position, mountains, cracked ground, puddle texture and overall dusk colors exactly as in the input. KEEP the existing broad cyan/magenta/gold reflected illumination on the GROUND below, since the same colorful sphere will be composited back into that place. Do not create a new environment or change the lighting direction. Do not add objects or text.
+This is a technical clean plate, not a new final hero. Preserve the original 1672x941 framing/aspect. The exact approved transparent artwork will be composited separately. No new sphere or logo.

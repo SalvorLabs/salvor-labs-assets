@@ -1,0 +1,33 @@
+{
+  "source": "../repair-03/repair-native.png",
+  "glowReference": "Approved locked hero; ImageGen background extraction",
+  "nativeSource": [
+    1536,
+    1024
+  ],
+  "expandedNative": [
+    1984,
+    1472
+  ],
+  "export": [
+    4096,
+    2654
+  ],
+  "clearBorderPixels": 5,
+  "nativeBounds": {
+    "left": 230,
+    "top": 207,
+    "width": 1559,
+    "height": 1009
+  },
+  "fixedLogoPixels": 144549,
+  "fixedLogoRGBMismatches": 0,
+  "logoAlphaNormalization": "Nearly opaque generated pixels normalized to fully opaque; fractional glow alpha retained",
+  "requestedConeProjectionScale": 0.5,
+  "requestedConeVisibilityScale": 0.5,
+  "logoOrConeBlurAdded": 0,
+  "outerGlow": "Generated restrained extraction; edge light continued in premultiplied alpha into expanded canvas. Entire fixed logo region is copied from repair-03, except foreground ribbons.",
+  "bottomGlow": "Smooth analytic white oval with restrained blue/violet translucent falloff; painted blur removed. No ground texture or shadow.",
+  "exportMethod": "Lanczos enlargement from native bitmap, alpha bounds measured after resampling; exactly five transparent pixels added on every side.",
+  "productionReplaced": false
+}

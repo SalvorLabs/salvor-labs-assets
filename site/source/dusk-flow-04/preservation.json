@@ -1,0 +1,19 @@
+{
+  "width": 1672,
+  "height": 941,
+  "editablePixels": 64192,
+  "lockedPixels": 1509160,
+  "lockedPixelMismatches": 0,
+  "losslessEncodingVerified": true,
+  "onlyArea": "Feathered ellipse around the imprint; existing front neon strokes protected",
+  "requestedVerticalTranslationPx": 17,
+  "requestedHorizontalTranslationPx": 0,
+  "requestedScale": 1,
+  "locked_inputs": {
+    "html_sha256": "06ce8e449356c3e56e9518a05884d02f678e1cd234b224a9e65004f93f3e2926",
+    "css_sha256": "2505f857511fd010184e51e775502232a5e2705b24bb863c1a95692f87f79427",
+    "hero_sha256": "c33e3c5ce26e8911dda3c0aa2b879e79b54b6ff136f4441b408ee851824aac5f"
+  },
+  "hero_layout_css_unchanged": true,
+  "social_icons_and_footer_are_separately_authorized": true
+}

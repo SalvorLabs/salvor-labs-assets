@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-09",
+  "approval": "Operator selected G08 at every size and explicitly removed all alternate small-logo artwork on 2026-10-19; Focus remains selected",
+  "framing": "The same regular G08 900px square canvas is used for every export size; wordmark crop preserves exact generated glyphs.",
+  "fontFamily": "Unverified; use preserved Focus artwork until an actual font is confirmed",
+  "sources": [
+    {
+      "id": "G08",
+      "source": "explorations/iteration-07/candidates/G08.png",
+      "master": "masters/logo/regular.png",
+      "use": "Single full knowledge-graph logo for 512, 256, 128, 64, 32, 16 and 8px",
+      "crop": null,
+      "sourceSha256": "eba2fe25fc60a8a2ec8e9b6202c15f6eb419c0999d4e4588c897735858cf13a7",
+      "sourceDimensions": [
+        900,
+        900
+      ],
+      "masterSha256": "eba2fe25fc60a8a2ec8e9b6202c15f6eb419c0999d4e4588c897735858cf13a7",
+      "masterDimensions": [
+        900,
+        900
+      ],
+      "processing": "Byte-for-byte copy"
+    },
+    {
+      "id": "B3-W05-Focus",
+      "source": "explorations/iteration-04/generated-study.png",
+      "master": "masters/wordmark/focus.png",
+      "use": "Preserved wordmark artwork for future lockup and wordmark sets",
+      "crop": {
+        "left": 735,
+        "top": 513,
+        "width": 209,
+        "height": 36
+      },
+      "sourceSha256": "a58bfdf97df2eee4732fff7cbcedf2f2446945b7078acf7f716fdcf417131f2f",
+      "sourceDimensions": [
+        1448,
+        1086
+      ],
+      "masterSha256": "f0b4671a6ccd80d21b9419f63c8325dd42afe11e049f420b372b8eeb2a8c594d",
+      "masterDimensions": [
+        209,
+        36
+      ],
+      "processing": "Exact pixel crop only; no redraw, geometry modification or lighting edits"
+    }
+  ],
+  "updated": "2026-10-19"
+}

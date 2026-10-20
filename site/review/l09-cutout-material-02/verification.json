@@ -1,0 +1,14 @@
+{
+  "status": "Technical export checks passed; material appearance pending operator review",
+  "width": 3072,
+  "height": 2048,
+  "alpha": [
+    0,
+    255
+  ],
+  "preservedOutsideMaterialAreaPixels": 1392015,
+  "productionHeroCardsAndPrimaryPngUnchanged": true,
+  "gitIndexPreserved": true,
+  "salvorUnchanged": true,
+  "browserErrors": []
+}

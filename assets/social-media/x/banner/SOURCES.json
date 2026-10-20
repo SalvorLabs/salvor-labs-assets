@@ -1,0 +1,85 @@
+{
+  "title": "SalvorLabs X profile header",
+  "created": "2026-10-20",
+  "method": "Deterministic SVG composition of exact canonical transparent artwork over the approved hero clean plate; no artwork or logo regeneration",
+  "platform": {
+    "name": "X",
+    "recommended": [
+      1500,
+      500
+    ],
+    "specification": "https://help.x.com/en/managing-your-account/common-issues-when-uploading-profile-photo",
+    "verified": "2026-10-20",
+    "notes": "X documents possible top/bottom display cropping; guides use60px. Avatar placement is an approximate composition check, not a platform guarantee."
+  },
+  "inputs": [
+    {
+      "path": "assets/hero/l09/salvorlabs-sphere-l09-contained-transparent-4096.png",
+      "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+    },
+    {
+      "path": "site/source/dusk-flow-06/cleanplate-generated.png",
+      "sha256": "5b2e3899f8892edee6d8085aa2b2054fc42f173f69dfb58af17f3a1a05214123"
+    }
+  ],
+  "composition": {
+    "width": 1500,
+    "height": 500,
+    "backdrop": {
+      "x": 0,
+      "y": -145,
+      "width": 1500,
+      "height": 844.1985645933014
+    },
+    "artwork": {
+      "x": 490,
+      "y": 36,
+      "width": 650,
+      "height": 421.1669921875
+    },
+    "logoClearArea": {
+      "left": 680,
+      "top": 155,
+      "right": 965,
+      "bottom": 355
+    },
+    "displayCropGuide": {
+      "top": 60,
+      "bottom": 60
+    },
+    "avatarGuide": {
+      "x": 150,
+      "y": 470,
+      "radius": 120
+    }
+  },
+  "outputs": [
+    {
+      "path": "salvorlabs-x-banner-1500x500.svg",
+      "bytes": 3690683,
+      "sha256": "5fa4b0e7ce0f387152dcf48864c93c48da70de5d8c4686d596b3bf9ddd8a736b"
+    },
+    {
+      "path": "salvorlabs-x-banner-1500x500.png",
+      "bytes": 1599982,
+      "sha256": "830c8eb5f930960830f6fcbdd1b51df001a2c24a243a30cfabe98db2ecb773b8"
+    },
+    {
+      "path": "salvorlabs-x-banner-1500x500.jpg",
+      "bytes": 287458,
+      "sha256": "a8b0d5b4090792b9bbcbdc02750b14cf2eb5fed06209402e0ddddac6fe6b5f25"
+    },
+    {
+      "path": "salvorlabs-x-banner-3000x1000.svg",
+      "bytes": 12406520,
+      "sha256": "89cd2dd6e76fe507aa52e3fe9702a7ec1c4cc6c2043107365fa6c5d000635d44"
+    },
+    {
+      "path": "salvorlabs-x-banner-3000x1000.png",
+      "bytes": 5531239,
+      "sha256": "cc323462a8b696ed8c9db64006557a3894bad8be92cabb6b830db977aeb10c39"
+    }
+  ],
+  "svgNotes": "Editable composition with embedded raster artwork; not a fully vector scene",
+  "canonicalHeroAndCardsChanged": false
+}

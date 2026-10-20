@@ -1,0 +1,35 @@
+{
+  "status": "Transparent review candidate; production hero and cards unchanged",
+  "tool": "Built-in ImageGen restrained glow extraction; fixed logo composition and deterministic alpha/export cleanup",
+  "geometrySource": {
+    "path": "../repair-03/repair-native.png",
+    "sha256": "55bd5d7101a875f31b5fc9829491524e4950b6de78d8d266f03965a5320b2f80"
+  },
+  "approvedGlow": "source/approved-glow-reference.png",
+  "prompt": "source/PROMPT.txt",
+  "nativeSource": [
+    1536,
+    1024
+  ],
+  "expandedNative": [
+    1984,
+    1472
+  ],
+  "export": [
+    4096,
+    2654
+  ],
+  "exportMethod": "Lanczos enlargement of native bitmap; complete falloff retained, measured nonzero-alpha bounds plus 5px transparent border",
+  "outputs": [
+    {
+      "path": "expanded-native.png",
+      "sha256": "12fefd6869758171d975f586f0a29e2418ed799daed26f7012462061f8faa352"
+    },
+    {
+      "path": "salvorlabs-sphere-l09-contained-transparent-4096.png",
+      "sha256": "d68a6a25270b5f2a76936c9f4301a07e93220625c9dc799287f13d9fe8bce3e4"
+    }
+  ],
+  "productionReplaced": false,
+  "alpha": "Opaque chrome and solid light cores normalized; smooth fractional alpha on glow; 5px transparent border"
+}

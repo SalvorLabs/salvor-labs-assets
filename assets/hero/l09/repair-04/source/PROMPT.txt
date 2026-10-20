@@ -1,0 +1,11 @@
+Use case: background-extraction / precise-object-edit.
+Image 1 is the EDIT TARGET: the corrected two-half cutout logo and short, lower-intensity gold light projections on the chrome sphere. Image 2 is the APPROVED reference for the RESTRAINED OUTER RIBBON GLOW. Do not copy image 2's old defective logo or exterior desert.
+
+Deliver a reusable independent PNG on TRUE ALPHA TRANSPARENCY. Correct ONLY the outer ribbon bloom and canvas containment. Keep the exact chrome sphere, front cutout knowledge-graph geometry, flat illuminated holes, continuous thick outer/seam contours and thinner inner channels from image 1. Keep its shorter/dimmer light cones as they are. Keep all flowing rainbow ribbon paths, fine filaments, thickness modulation, colors, crossings, and the soft white oval hover glow below.
+
+Revert the OUTER neon bloom to the restrained glow in image 2: luminous fringes close to each ribbon, with dark transparent negative space between loops; no giant rainbow fog or amplified broad aura filling the canvas. All neon remains bright with its original gradient colors. Do not dim or restyle the solid light ribbons or the logo, and do not blur the logo light cones.
+
+Enlarge the TRANSPARENT CANVAS as much as necessary to contain the COMPLETE feathered glow. Center the group and leave substantial empty transparent breathing room around every side, at least 12% of canvas width at left/right and 10% at top/bottom. The outer light must fall off naturally to fully transparent WELL BEFORE the image edges. Absolutely no cropped bloom, chopped arc, straight rectangular gradient boundary, abrupt alpha edge, extra haze reaching the border, or painted checkerboard. Do not simply pad a visibly chopped glow: reconstruct its complete smooth luminous falloff in the added transparent area.
+
+No exterior sky, horizon, desert, floor, reflected sphere on a floor, black background, dark rectangular backdrop or ground texture. Keep the desert/sunset REFLECTION INSIDE THE CHROME only. Keep the white oval hovering glow as transparent light without ground/shadow texture.
+Keep the camera, relative scale, arrangement and two-half logo recognizable exactly. Do not add swirls, objects, new beams or new highlights. Request 3072x2048 landscape RGBA; the complete group plus all fading gradients fits comfortably inside. No text, no labels, no watermark.

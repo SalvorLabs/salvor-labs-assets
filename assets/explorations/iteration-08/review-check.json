@@ -1,0 +1,12 @@
+{
+  "status": "rejected irregular outline",
+  "outlinePNG": {
+    "width": 128,
+    "height": 128
+  },
+  "initialComparison": {
+    "CSSPixels": 128,
+    "DPR": 1
+  },
+  "followup": "../iteration-09/review.html"
+}
