@@ -54,7 +54,9 @@ This is the overview. A later update will take a closer look at the five pillars
 
 Follow @SalvorLabsAI for progress.
 
-Explore Salvor OS: github.com/SalvorLabs/Salvor
+Explore Salvor OS: https://salvorknows.dev/
+Source code: https://github.com/SalvorLabs/Salvor
+Salvor OS on X: https://x.com/SalvorKnows
 
 ## Future-update teaser
 
@@ -70,7 +72,7 @@ Building lasting AI knowledge: free, MIT-licensed Salvor OS and Salvor+ premium 
 
 Salvor Labs builds tools for agents and human teams to carry engineering knowledge forward.
 
-[Salvor OS](https://github.com/SalvorLabs/Salvor) is our free, MIT-licensed open-source foundation. It keeps project decisions, lessons, and context in the repository, useful without a token or commercial service.
+[Salvor OS](https://salvorknows.dev/) is our free, MIT-licensed open-source foundation. It keeps project decisions, lessons, and context in the repository, useful without a token or commercial service.
 
 Salvor+ is a separately maintained private commercial derivative in development, with proprietary enhancements and services. Salvor+ MCP is part of that direction.
 

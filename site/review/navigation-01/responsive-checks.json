@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-20",
+  "homepage": [
+    {
+      "menuVisible": true,
+      "missingImages": 0,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "menuVisible": true,
+      "missingImages": 0,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "menuVisible": false,
+      "missingImages": 0,
+      "overflow": false,
+      "width": 1101
+    },
+    {
+      "menuVisible": false,
+      "missingImages": 0,
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "announcement": {
+    "width": 320,
+    "overflow": false,
+    "menuKeyboard": "Space/Enter open; Escape closes and returns focus; internal navigation closes"
+  },
+  "externalLinks": "new tab with noopener noreferrer"
+}

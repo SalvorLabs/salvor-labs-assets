@@ -76,3 +76,7 @@ The operator authorized a signed visual-only commit/push on the gh-pages-preview
 
 ## 2026-10-20 — Combined website and cover save
 The operator corrected the working branch to gh-pages-preview, then authorized the combined copy/visual save after canonical artwork commit921163f. Root runtime pages mirror site/; later external-link behavior and the corrected article cover are included. main was deleted after its approved page commit was merged. Pages/DNS configuration remains unchanged.
+
+
+## 2026-10-20 — Announcement rollout authorization
+The operator approved committing and pushing all pending website/navigation/announcement changes for the live rollout. Fresh authenticated Pages status confirms salvorlabs.org is already built from gh-pages-preview root with an approved certificate and HTTPS enforced; the earlier unpublished status is historical. No Pages or DNS reconfiguration is required. The push will deploy through the existing Pages pipeline. VERSION.md records the change without consuming integration counters: §3 increments only on dev integration. Root/source parity, all45 manifest entries, local references and external-link protections pass fresh checks; prior responsive/keyboard review remains in site/review/navigation-01. Existing visual assets and the Salvor repository are untouched.

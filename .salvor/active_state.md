@@ -1,13 +1,13 @@
 # salvor-labs-assets Active State — 2026-10-20
 ## Architecture: ASSETS:01 prepared; GHPAGE:00 not integrated; other Strict defaults disabled
 ## Checkout: /Users/dwasyluk/Development/SALVORLABS/salvor-labs-assets; gh-pages-preview; remote SalvorLabs/salvor-labs-assets
-## Pipeline: operator authorized combined copy/visual signed commit/push on gh-pages-preview; canonical artwork saved in921163f; dev integration/publication remain separate
-## Publication: temporary Pages site unpublished at 2026-10-18T13:39:06.169300+00:00; GitHub configuration absent (HTTP 404); approved pages and canonical artwork saved on gh-pages-preview; Pages configuration unchanged
+## Pipeline: operator authorized committing/pushing all pending navigation and announcement updates for live rollout; gh-pages-preview push triggers Pages; no dev integration or release tag
+## Publication: 2026-10-20 authenticated check confirms Pages built at https://salvorlabs.org/ from gh-pages-preview root; HTTPS enforced and certificate approved; launch update pending push
 ## Expiry: original deadline 2026-10-17 15:34:45 UTC retained; execution resumed after deadline and takedown completed 2026-10-18; heartbeat PAUSED
-## Current Delta: approved pages merged/pushed to gh-pages-preview; main deleted locally/remotely after ancestry verification; corrected article cover and external-link updates approved for combined save; parallel artwork preserved
+## Current Delta: product-first links, Telegram, responsive menu and six announcement closing links approved for signed save/push; existing artwork preserved
 ## Product isolation: Salvor source marks read only; all deliverables in assets checkout; original hero, brand masters and canonical staging preserved
 ## Preservation: old nested checkout and external mock retained; backups at ../.recovery/2026-10-16-labs-migration/; publication record at .tmp/pages-preview/deployment.json
-## Local review: http://127.0.0.1:64613/?cut=ecosystem-02; scene source/preservation in site/source/dusk-flow-06/; hero/card/transparency review and responsive checks in site/review/dusk-flow-08/
+## Local review: http://127.0.0.1:64613/?cut=ecosystem-04; navigation checks in site/review/navigation-01/; hero preservation in site/review/dusk-flow-08/
 ## Last Brain Audit: 2026-10-20 (operator-authorized; one decision, no conflicting captures or broken Markdown links; operational pointers synced)
 ## Sharing: site/source/hero-lock.json links current JPEG/PNG/SVG and hashes; exporter requires --lock-hero; no draft watcher; card/metadata verified locally, publication pending
 ## Latest selection: contained-glow04 approved2026-10-20; assets/hero/l09/SOURCES.json owns exact PNG/hero pointers; original sources and earlier PNG/cards remain
@@ -19,3 +19,7 @@
 ## Article cover: assets/social-media/x/article-cover/ owns2500×1000 PNG/JPEG/SVG and1500×600 JPEG; exact approved sphere/crisp Futura Medium title over generated dusk plate; revision02 corrects rejected traced lettering; operator-approved for repository save
 
 ## Link behavior: homepage/announcement external links open a new tab with noopener/noreferrer; internal navigation stays same-tab; source/root synchronized, included in approved save
+
+## Navigation: SalvorKnows.dev primary OS destination; source GitHub secondary; @SalvorKnows product link; Labs Telegram header/footer; compact menu <=1100px; local review at ?cut=ecosystem-04
+
+## Announcement links: Labs website/X/Telegram and OS website/GitHub/X; website label corrected; new-tab protections retained; approved for save

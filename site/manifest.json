@@ -5,18 +5,18 @@
   "files": [
     {
       "path": "announcement.html",
-      "bytes": 11384,
-      "sha256": "2cb6631372462cbd41d2912ee6d18da51d4e94808ca11d9f633e7699e1070319"
+      "bytes": 14306,
+      "sha256": "5048facbded89917e64651e885af3ce355566a0c3017522f5157ee1f0f803eb5"
     },
     {
       "path": "index.html",
-      "bytes": 13305,
-      "sha256": "4c9922cd4d01eea747aec6f131c37fd071e5bc778b749e17c54fce9c4afab530"
+      "bytes": 16532,
+      "sha256": "d11ed466bd746122642f6640641957c575d5391b47681f92ec5b6746f6c37b61"
     },
     {
       "path": "marketing.css",
-      "bytes": 3444,
-      "sha256": "998bb855c4c5f7f40e4462f390f7684849e6cad367b21ae4d040bf166a0f402d"
+      "bytes": 5169,
+      "sha256": "95af7467cb734a4cab4e8759536e56f40350773ab55a52b1ce0ad63aa03d5c14"
     },
     {
       "path": "media/artwork/salvorlabs-sphere-l09-contained-transparent-4096.png",
@@ -125,8 +125,8 @@
     },
     {
       "path": "media/icons/ATTRIBUTION.md",
-      "bytes": 1346,
-      "sha256": "239db1d68006814aaa30ab9ab5312f829ca650199452fbaf2fc40a2abfd00b0c"
+      "bytes": 1589,
+      "sha256": "d49456ded52d1c93e37bee09a74af146bfc59a9bea34a895442dfde057d8e74e"
     },
     {
       "path": "media/icons/LICENSE-GitHub.txt",
@@ -147,6 +147,11 @@
       "path": "media/icons/jupiter-grayscale.svg",
       "bytes": 2358,
       "sha256": "4376fa2e0e9b0861fd273325123f97ff1857f07d9967fdf7180db6d76acd3eea"
+    },
+    {
+      "path": "media/icons/telegram.svg",
+      "bytes": 742,
+      "sha256": "147fd8f8923e7e5f463fe98c0eb9913bead6b2ae59935728cda141002ec8a7c9"
     },
     {
       "path": "media/icons/x.svg",
@@ -207,6 +212,11 @@
       "path": "media/social/salvorlabs-social-v2.png",
       "bytes": 896580,
       "sha256": "cf71f0e3acdac117e2c7ad39dbd9003d2504066dc147d95b9af9648ad34e7430"
+    },
+    {
+      "path": "navigation.js",
+      "bytes": 1333,
+      "sha256": "a37ffaa587359b0c8c11cc5e3897351a7780ad24a56fa0ae71926cdd1fca35f7"
     },
     {
       "path": "robots.txt",

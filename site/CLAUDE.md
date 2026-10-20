@@ -14,8 +14,14 @@ Current artwork review and its earlier six responsive checks are in `review/dusk
 
 The repair approval gate is cleared. The operator approved committing and pushing the reviewed site on `gh-pages-preview` on 2026-10-20. This source save does not deploy the site or change DNS, the organization profile, releases, or the Salvor product. The temporary Pages site remains unpublished; its branch and source are retained. The operator corrected the working branch to `gh-pages-preview`; the approved `main` commit is merged there, with runtime files mirrored to the branch root. The approved site save is separate from parallel canonical-artwork integration.
 
-Header/footer on both runtime pages include “Buy $SALVOR”; the homepage utility list ends with “Buy $SALVOR on Bags.fm.” Bags.fm is the sole buy destination, using the operator-supplied URL and official monochrome icon (source in `media/icons/ATTRIBUTION.md`). Compact headers keep the buy link visible, with navigation on a separate mobile row.
+Header/footer on both runtime pages include “Buy $SALVOR”; the homepage utility list ends with “Buy $SALVOR on Bags.fm.” Bags.fm is the sole buy destination, using the operator-supplied URL and official monochrome icon (source in `media/icons/ATTRIBUTION.md`). At1100px and below, the labeled menu provides all section, Salvor OS, GitHub, Telegram and buy links.
 
 The body Bags.fm CTA is a high-contrast semibold button scoped to `.utility-cta`; header/footer buy links remain understated text links.
 
 All external HTTP(S) anchors on both runtime pages use `target="_blank"` with `rel="noopener noreferrer"`. Internal section and announcement navigation stay in the current tab. Root preview files mirror the source pages.
+
+Salvor OS discovery leads to `https://salvorknows.dev/` through the top navigation, linked product logo/title and primary CTA. Source-code links remain secondary; `https://x.com/SalvorKnows` appears in the OS product links. Official Labs Telegram links are in both headers/footers with a monochrome icon. `navigation.js` progressively enhances the compact menu with expanded state, keyboard activation, Escape/focus return, link/outside/focus-leave dismissal and responsive reset; without JS all links remain visible.
+
+The announcement closes with six official links: Labs website, Labs X, Labs Telegram, OS website, OS GitHub and OS X. The article Markdown mirrors these destinations; SalvorKnows.dev is labeled as the website.
+
+Current publication status (2026-10-20): GitHub Pages is active at https://salvorlabs.org/ from gh-pages-preview root, with HTTPS enforced. The operator approved the navigation and announcement push for live rollout; earlier unpublished statements above are historical. Version counters remain unchanged until dev integration, per RULES.md §3.

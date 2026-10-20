@@ -58,12 +58,41 @@
 .utility-cta .buy-salvor:hover { background: #fff; border-color: #fff; }
 .utility-cta .bags-icon { filter: invert(1); mix-blend-mode: multiply; }
 .footer nav { flex-wrap: wrap; }
-@media (max-width: 1000px) {
-  .masthead .nav-local { display: none; }
-  .masthead nav { gap: 20px; }
+/* Product-first destinations and progressively enhanced compact navigation. */
+.product-brand-link:hover h3 { text-decoration: underline; text-underline-offset: 6px; }
+.product-links { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 24px; }
+.product-primary { font-weight: 600; }
+.product-secondary { color: var(--muted); font-size: 14px; }
+.masthead nav { gap: 24px; }
+.masthead nav a { white-space: nowrap; }
+.nav-toggle { display: none; }
+.menu-close { display: none; }
+.nav-toggle[aria-expanded="true"] .menu-lines { display: none; }
+.nav-toggle[aria-expanded="true"] .menu-close { display: block; }
+@media (max-width: 1100px) {
+  .masthead { flex-wrap: wrap; gap: 16px; }
+  .masthead:not(.nav-ready) { position: relative; }
+  .masthead nav { width: 100%; flex-wrap: wrap; gap: 12px 24px; }
+  .masthead .nav-local { display: inline-flex; }
+  .nav-ready .nav-toggle {
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    min-height: 44px; padding: 8px 10px; border: 1px solid var(--rule);
+    border-radius: 4px; background: var(--page); color: var(--ink); font: inherit;
+    font-size: 14px; cursor: pointer;
+  }
+  .nav-toggle:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+  .nav-ready nav {
+    display: none; position: absolute; inset: 100% 24px auto; width: auto;
+    padding: 16px 24px; border: 1px solid var(--rule); border-radius: 4px;
+    background: var(--page); box-shadow: 0 16px 36px #0006;
+    max-height: calc(100dvh - 140px); overflow-y: auto;
+  }
+  .nav-ready.nav-open nav { display: flex; flex-direction: column; align-items: stretch; gap: 0; }
+  .nav-ready nav a { display: flex; align-items: center; min-height: 44px; padding: 10px 0; font-size: 15px; }
+  .nav-ready nav .nav-product { border-top: 1px solid var(--rule); margin-top: 8px; padding-top: 18px; font-weight: 600; }
 }
 @media (max-width: 640px) {
-  .masthead { flex-wrap: wrap; row-gap: 8px; }
-  .masthead nav { width: 100%; justify-content: space-between; }
-  .hero-copy { padding-top: 160px; }
+  .hero-copy { padding-top: 140px; }
+  .masthead { column-gap: 8px; }
+  .footer nav { gap: 12px 24px; }
 }

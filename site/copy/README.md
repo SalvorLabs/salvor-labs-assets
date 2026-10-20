@@ -22,3 +22,7 @@ Use `$SALVOR` when referring to the token. Use “Salvor OS” for the free open
 Existing hero, logos, social-card images, and their generators are preserved for the parallel visual work. Their “Knowledge that outlives the session” headline still matches the page. Homepage and article metadata use the new ecosystem description alongside that existing artwork.
 
 The three supplied Salvor+ marks are copied without alteration into `../media/brand/salvor-plus/`; that directory's `SOURCES.json` records their provenance. The white SVG is used on the dark page. No files in the Salvor product repository were edited.
+
+## Product and community destinations
+
+Salvor OS discovery links lead with https://salvorknows.dev/. Keep https://github.com/SalvorLabs/Salvor as the secondary source-code destination and in repository-migration references. Product updates use https://x.com/SalvorKnows; Labs updates retain https://x.com/SalvorLabsAI. The official Labs Telegram is https://t.me/SalvorLabs. All external runtime anchors open new tabs.

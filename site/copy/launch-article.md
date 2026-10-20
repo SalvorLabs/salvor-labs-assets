@@ -52,6 +52,14 @@ We’ll share a closer look at the five pillars and their proposed mechanics in 
 
 Salvor OS builds the foundation. Salvor+ expands what’s possible. Salvor Labs builds the ecosystem. $SALVOR connects its contributors, customers, and services.
 
-[Explore Salvor OS](https://github.com/SalvorLabs/Salvor)
+[Salvor Labs](https://SalvorLabs.org)
 
-[Follow Salvor Labs on X](https://x.com/SalvorLabsAI)
+[Follow SalvorLabsAI on X](https://x.com/SalvorLabsAI)
+
+[Salvor Labs Telegram](https://t.me/SalvorLabs)
+
+[Salvor OS website](https://SalvorKnows.dev)
+
+[Salvor OS GitHub](https://github.com/SalvorLabs/Salvor)
+
+[Follow Salvor OS on X](https://x.com/SalvorKnows)

@@ -185,3 +185,17 @@ At the operator’s request, all17 external anchors across the homepage and anno
 
 ## 2026-10-20 — Combined copy and visual save authorization
 The operator requested committing and pushing all updated copy and visuals to gh-pages-preview. Canonical artwork is already in921163f. This follow-up includes the17 new-tab external links, synchronized runtime sources/root, corrected Futura article cover and its source/export/archive pack, remaining visual reviews and historical page snapshots, and matching operational documentation. Exact path staging preserves existing content. Manifest/source parity, cover input/output hashes and page-link targets are checked before the signed commit. No Pages configuration, DNS, release or product-repository changes are included.
+
+
+## 2026-10-20 — Product-first links and community navigation
+The operator requested SalvorKnows.dev as the primary OS destination, keeping direct GitHub for source details. Both top navigations and primary OS CTAs now use the product site; the homepage OS logo/title is linked there. The OS card includes secondary source and @SalvorKnows links, with the X destination confirmed from the public product site. Both pages include official Labs Telegram in header/footer using the Simple Icons monochrome mark. Announcement/social drafts match the destination hierarchy. External anchors retain new-tab/noopener/noreferrer behavior.
+
+The compact menu is progressively enhanced at1100px: all links remain accessible without JavaScript; the button exposes expanded state and controls, supports Enter/Space/Escape, closes on navigation/outside click/focus exit, and resets when crossing the breakpoint. Browser checks cover320/390/768/1101/1440px, no overflow/missing images, opening/closing, Escape focus return and internal-section navigation. Runtime root/source copies and hashes are synchronized. Existing artwork is unchanged. This follow-up is local and not deployed.
+
+
+## 2026-10-20 — Announcement closing destinations
+Updated the announcement closing list to the six operator-supplied Labs and OS destinations, distinguishing the OS website from GitHub. Both runtime copies and article Markdown match; external links retain new-tab protections and the runtime manifest hash is refreshed. Existing artwork and other pending navigation changes are preserved.
+
+
+## 2026-10-20 — Announcement rollout authorization
+The operator approved committing and pushing all pending website/navigation/announcement changes for the live rollout. Fresh authenticated Pages status confirms salvorlabs.org is already built from gh-pages-preview root with an approved certificate and HTTPS enforced; the earlier unpublished status is historical. No Pages or DNS reconfiguration is required. The push will deploy through the existing Pages pipeline. VERSION.md records the change without consuming integration counters: §3 increments only on dev integration. Root/source parity, all45 manifest entries, local references and external-link protections pass fresh checks; prior responsive/keyboard review remains in site/review/navigation-01. Existing visual assets and the Salvor repository are untouched.

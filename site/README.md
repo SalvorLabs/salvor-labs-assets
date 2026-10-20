@@ -31,3 +31,7 @@ The path must match the current hero in `index.html`. This command exports the s
 Serve this folder over HTTP; the current local server is on port64613. The original working mock is preserved at `review/dusk-flow-01/baseline/`. Earlier dusk images, logo-light studies, transparent reviews and social exports remain in their source/review folders.
 
 The earlier twelve-hour GitHub Pages preview was unpublished on 2026-10-18. This update makes no deployment, DNS or organization-profile changes. Salvor product files remain untouched. The reviewed website was committed and pushed, then merged into `gh-pages-preview` at the operator’s correction. Continue work directly on `gh-pages-preview`. Runtime files at the branch root mirror this `site/` source; Pages configuration remains unchanged. Separate staged/unversioned artwork remains preserved locally.
+
+Product discovery now leads with SalvorKnows.dev; GitHub remains available for source details. The Salvor OS card includes @SalvorKnows, and both pages link the official Labs Telegram. The compact navigation menu at1100px and below is implemented in `navigation.js`, with links visible if scripting is unavailable.
+
+Current publication status (2026-10-20): GitHub Pages is active at https://salvorlabs.org/ from gh-pages-preview root, with HTTPS enforced. The operator approved the navigation and announcement push for live rollout; earlier unpublished statements above are historical. Version counters remain unchanged until dev integration, per RULES.md §3.
