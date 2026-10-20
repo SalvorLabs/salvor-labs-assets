@@ -80,3 +80,7 @@ The operator corrected the working branch to gh-pages-preview, then authorized t
 
 ## 2026-10-20 — Announcement rollout authorization
 The operator approved committing and pushing all pending website/navigation/announcement changes for the live rollout. Fresh authenticated Pages status confirms salvorlabs.org is already built from gh-pages-preview root with an approved certificate and HTTPS enforced; the earlier unpublished status is historical. No Pages or DNS reconfiguration is required. The push will deploy through the existing Pages pipeline. VERSION.md records the change without consuming integration counters: §3 increments only on dev integration. Root/source parity, all45 manifest entries, local references and external-link protections pass fresh checks; prior responsive/keyboard review remains in site/review/navigation-01. Existing visual assets and the Salvor repository are untouched.
+
+
+## 2026-10-20 — Announcement rollout verified
+Signed commit f6f8f6932aec5c178303389caf5f09d3c9c9056c was pushed to origin/gh-pages-preview. Pages run39483127180 completed successfully. Fresh HTTPS requests for homepage, announcement, marketing CSS, navigation script, Telegram icon and approved hero all returned200 with bytes identical to the committed runtime. Evidence: .tmp/pages-preview/announcement-rollout-verification.json. No version-counter increment, release tag, DNS/settings change or social-network post was performed.

@@ -25,3 +25,5 @@ Salvor OS discovery leads to `https://salvorknows.dev/` through the top navigati
 The announcement closes with six official links: Labs website, Labs X, Labs Telegram, OS website, OS GitHub and OS X. The article Markdown mirrors these destinations; SalvorKnows.dev is labeled as the website.
 
 Current publication status (2026-10-20): GitHub Pages is active at https://salvorlabs.org/ from gh-pages-preview root, with HTTPS enforced. The operator approved the navigation and announcement push for live rollout; earlier unpublished statements above are historical. Version counters remain unchanged until dev integration, per RULES.md §3.
+
+Rollout verified: signed f6f8f69 deployed successfully in Pages run39483127180; live homepage, announcement and key assets match committed bytes.
