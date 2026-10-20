@@ -1,0 +1,50 @@
+[
+  {
+    "height": 691,
+    "missingImages": [],
+    "overflow": false,
+    "page": "home",
+    "pillars": 5,
+    "width": 291
+  },
+  {
+    "height": 931,
+    "missingImages": [],
+    "overflow": false,
+    "page": "home",
+    "pillars": 5,
+    "width": 698
+  },
+  {
+    "height": 767,
+    "missingImages": [],
+    "overflow": false,
+    "page": "home",
+    "pillars": 5,
+    "width": 720
+  },
+  {
+    "height": 767,
+    "missingImages": [],
+    "overflow": false,
+    "page": "announcement",
+    "pillars": 5,
+    "width": 720
+  },
+  {
+    "height": 691,
+    "missingImages": [],
+    "overflow": false,
+    "page": "announcement",
+    "pillars": 5,
+    "width": 291
+  },
+  {
+    "height": 818,
+    "missingImages": [],
+    "overflow": false,
+    "page": "home",
+    "pillars": 5,
+    "width": 1309
+  }
+]
